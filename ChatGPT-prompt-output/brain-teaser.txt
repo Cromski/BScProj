@@ -1,0 +1,4 @@
+date: 12/09-2023, 23:43:28
+prompt: In strictly less than 200 characters, write something about iPhone 15 in an extremely brain-teaser way, it should be opinionated.     It should not include these words, but have the vibe of them: ['Question', 'Quiz', 'Test', 'Exam', 'Inquiry', 'Interrogation', 'Inquisition', 'Query', 'Enquiry', 'Trivia', 'Puzzle']. Write it as a tweet.    
+response: iPhone 15: A mesmerizing blend of innovation and elegance, transcending boundaries with its unrivaled features. A true marvel that redefines the essence of technological brilliance. Prepare to be spellbound. #iPhone15
+

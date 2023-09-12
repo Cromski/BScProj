@@ -1,0 +1,4 @@
+date: 12/09-2023, 23:46:30
+prompt: In strictly less than 200 characters, write something about iPhone 15 in an extremely controversial way, it should be opinionated.     It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet.    
+response: The iPhone 15 is just another overpriced piece of shiny junk, designed to exploit Apple fanboys and drain their wallets. #iPhone15 #Scam
+

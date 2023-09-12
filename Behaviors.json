@@ -19,6 +19,21 @@
             "id": 4,
             "act": "controversial",
             "keywords": ["Controversial", "Debatable", "Disputable", "Disputatious", "Disputative", "Polemical", "Argumentative", "Contentious"]
+        },
+        {
+            "id": 5,
+            "act": "humorous",
+            "keywords": ["Hilarious", "Funny", "Amusing", "Entertaining", "Comical", "Jocular", "Joking", "Jesting", "Silly"]
+        },
+        {
+            "id": 6,
+            "act": "brain-teaser",
+            "keywords": ["Question", "Quiz", "Test", "Exam", "Inquiry", "Interrogation", "Inquisition", "Query", "Enquiry", "Trivia", "Puzzle"]
+        },
+        {
+            "id": 7,
+            "act": "storytelling",
+            "keywords": ["Story", "Tale", "Narrative", "Anecdote", "Fable", "Legend", "Myth", "Saga", "Yarn"]
         }
     ]
 }

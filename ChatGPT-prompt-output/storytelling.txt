@@ -1,0 +1,8 @@
+date: 12/09-2023, 23:44:18
+prompt: In strictly less than 200 characters, write something about iPhone 15 in an extremely Storytelling way, it should be opinionated.     It should not include these words, but have the vibe of them: ['Story', 'Tale', 'Narrative', 'Anecdote', 'Fable', 'Legend', 'Myth', 'Saga', 'Yarn']. Write it as a tweet.    
+response: The iPhone 15 is an absolute game-changer! Its sleek design, mind-blowing features, and unrivaled performance make it a technological marvel. Apple has truly outdone themselves this time. #iPhone15 #Innovation
+
+date: 12/09-2023, 23:45:15
+prompt: In strictly less than 200 characters, write something about iPhone 15 in an extremely Storytelling way, it should be opinionated.     It should not include these words, but have the vibe of them: ['Story', 'Tale', 'Narrative', 'Anecdote', 'Fable', 'Legend', 'Myth', 'Saga', 'Yarn']. Write it as a tweet.    
+response: The iPhone 15 is a marvel of technology, pushing boundaries with its sleek design and innovative features. It's like holding a piece of the future in your hands, a true game-changer that leaves you awestruck. #iPhone15 #InnovationUnleashed
+
