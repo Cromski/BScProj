@@ -10,8 +10,8 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 URL = "https://api.openai.com/v1/chat/completions"
 
 def promptChatGPT(temp, act, keywords, topic):
-    prompt = f"""In strictly less than 200 characters, write something about {topic} in an extremely {act} way, it should be opinionated. \
-    It should not include these words, but have the vibe of them: {keywords}. Write it as a tweet.\
+    prompt = f"""In strictly less than 200 characters, write something about {topic} in an extremely {act} way, \
+    it should be opinionated. It should not include these words, but have the vibe of them: {keywords}. Write it as a tweet.\
     """
     payload = {
         "model": "gpt-3.5-turbo",

@@ -1,0 +1,5 @@
+Could be worded better
+
+Saving data fromt previous outputs, can make follow up tweets on the same topic
+
+Make output include emoji 😁
