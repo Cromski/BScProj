@@ -1,0 +1,24 @@
+{
+    "Behaviors": [
+        {
+            "id": 1,
+            "act": "optimistic",
+            "keywords": ["Hopeful", "Positive", "Bright", "Joy", "Gratitude", "Cheerful", "Enthusiastic", "Uplifting"]
+        },
+        {
+            "id": 2,
+            "act": "pessimistic",
+            "keywords": ["Bleak", "Gloomy", "Despair", "Depressing", "Hopeless", "Frustration", "Miserable", "Worrying"]
+        },
+        {
+            "id": 3,
+            "act": "sad",
+            "keywords": ["Heartbroken", "Grief", "Sorrow", "Lament", "Disconsolate", "Regretful", "Crestfallen"]
+        },
+        {
+            "id": 4,
+            "act": "controversial",
+            "keywords": ["Controversial", "Debatable", "Disputable", "Disputatious", "Disputative", "Polemical", "Argumentative", "Contentious"]
+        }
+    ]
+}

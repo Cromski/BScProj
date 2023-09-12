@@ -1,0 +1,4 @@
+date: 12/09-2023, 23:03:38
+prompt: In strictly less than 200 characters, write something about starlink in an extremely pessimistic way, it should be opinionated.     It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet.    
+response: "Starlink is just another example of how humanity's insatiable desire for connectivity is slowly eroding the beauty and serenity of our night sky. #LostInSpace"
+
