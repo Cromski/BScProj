@@ -1,0 +1,7 @@
+date: 12/09-2023, 23:27:15
+prompt: In strictly less than 200 characters, write something about starlink in an extremely sad way, it should be opinionated.     It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet.    
+response: Starlink, a celestial web that connects us all, now blankets the night sky, stealing the beauty of stars and leaving us with a cold, artificial glow. #LostInSpace
+
+date: 12/09-2023, 23:27:15
+prompt: In strictly less than 200 characters, write something about starlink in an extremely sad way, it should be opinionated.     It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet.    
+response: Starlink, a celestial web that connects us all, now blankets the night sky, erasing the beauty of twinkling stars. Our connection grows, but at the cost of losing the enchantment that once filled our hearts. #LostInSpace

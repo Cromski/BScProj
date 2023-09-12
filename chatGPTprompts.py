@@ -2,7 +2,6 @@ from dotenv import load_dotenv
 import os
 import requests
 from datetime import datetime
-import json
 
 load_dotenv()
 
@@ -10,10 +9,8 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 URL = "https://api.openai.com/v1/chat/completions"
 
-behaviors = json.load(open('behaviors.json', 'r'))
-
-def promptChatGPT(temp, act, keywords):
-    prompt = f"""In strictly less than 200 characters, write something about starlink in an extremely {act} way, it should be opinionated. \
+def promptChatGPT(temp, act, keywords, topic):
+    prompt = f"""In strictly less than 200 characters, write something about {topic} in an extremely {act} way, it should be opinionated. \
     It should not include these words, but have the vibe of them: {keywords}. Write it as a tweet.\
     """
     payload = {
@@ -34,9 +31,9 @@ def promptChatGPT(temp, act, keywords):
 
     print(response.json())
 
-    with open(f'{act}-outputs.txt', 'a') as f:
+    with open(f'./ChatGPT-prompt-output/{act}.txt', 'a') as f:
         f.write(
             f"date: {datetime.now().strftime('%d/%m-%Y, %H:%M:%S') }\nprompt: {prompt}\nresponse: {response.json()['choices'][0]['message']['content']}\n\n")
 
 
-promptChatGPT(0.3, behaviors["Behaviors"][1]["act"], behaviors["Behaviors"][1]["keywords"])
+
