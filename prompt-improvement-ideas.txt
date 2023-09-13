@@ -4,3 +4,5 @@ Saving data fromt previous outputs, can make follow up tweets on the same topic;
 it would produce almost the same tweet.
 
 Make output include emoji 😁
+
+Account with grammar mistakes, maybe controversial behavior
