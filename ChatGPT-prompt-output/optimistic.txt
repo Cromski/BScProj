@@ -2,3 +2,7 @@ date: 12/09-2023, 23:01:23
 prompt: In less than 200 characters, write something about starlink in an extremely optimistic way, it should be opinionated.     It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet.    
 response: Starlink is an absolute game-changer! With its revolutionary satellite internet, it's like a cosmic symphony connecting the world, unlocking infinite possibilities, and propelling humanity towards an awe-inspiring future! #StarlinkRevolution
 
+date: 13/09-2023, 14:02:59
+prompt: In strictly less than 200 characters, write something about iPhone 15 in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet.    
+response: "The iPhone 15 is an absolute game-changer! Its innovative features redefine convenience and elevate our digital experiences to new heights. Can't wait to see how it revolutionizes our lives! #iPhone15 #InnovationUnleashed"
+

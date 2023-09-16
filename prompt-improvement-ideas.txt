@@ -6,3 +6,6 @@ it would produce almost the same tweet.
 Make output include emoji 😁
 
 Account with grammar mistakes, maybe controversial behavior
+- all caps
+- punctuation!!!P??!
+
