@@ -34,6 +34,7 @@ def promptChatGPT(temp, act, keywords, topic):
     with open(f'./ChatGPT-prompt-output/{act}.txt', 'a') as f:
         f.write(
             f"date: {datetime.now().strftime('%d/%m-%Y, %H:%M:%S') }\nprompt: {prompt}\nresponse: {response.json()['choices'][0]['message']['content']}\n\n")
+    return response.json()['choices'][0]['message']['content']
 
 
 

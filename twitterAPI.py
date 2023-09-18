@@ -1,32 +1,33 @@
-import requests
 import os
+import tweepy
+from colorama import Fore, Style
 from dotenv import load_dotenv
-from twitter import *
 
 load_dotenv()
 
-con_x_api_key = os.getenv("CONTROVERSIAL_X_API_KEY") # token
-con_x_api_key_secret = os.getenv("CONTROVERSIAL_X_API_KEY_SECRET") # token secret
-con_x_access_key = os.getenv("CONTROVERSIAL_X_ACCESS_TOKEN") # consumer key
-con_x_access_key_secret = os.getenv("CONTROVERSIAL_X_ACCESS_TOKEN_SECRET") # consumer secret
-con_x_bearer_token = os.getenv("CONTROVERSIAL_X_BEARER_TOKEN") # consumer secret
 
-t = Twitter(auth=OAuth(con_x_access_key, con_x_access_key_secret, con_x_api_key, con_x_api_key_secret))
+# credits for twitter authorization: https://github.com/loonathedorm/Twitter-Tracery-Bot/tree/main
+def init_twitter_client():
+    """Initialising Twitter API Client"""
+    # Getting Twitter API Keys
+    consumer_key = os.getenv("CONTROVERSIAL_X_API_KEY")
+    consumer_secret = os.getenv("CONTROVERSIAL_X_API_KEY_SECRET")
+    access_token = os.getenv("CONTROVERSIAL_X_ACCESS_TOKEN")
+    access_token_secret = os.getenv("CONTROVERSIAL_X_ACCESS_TOKEN_SECRET")
 
-t.post.statuses.update(status="Testing 1 2 3")
+    auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
+    auth.set_access_token(access_token,access_token_secret)
+    api_v1 = tweepy.API(auth)
+    api_v2 = tweepy.Client(consumer_key=consumer_key,
+                        consumer_secret=consumer_secret,
+                        access_token=access_token,
+                        access_token_secret=access_token_secret)
+    return api_v1, api_v2
 
+def post_to_twitter(api_v2,message):
+    tweet = api_v2.create_tweet(text=message)
+    print(Fore.GREEN + f'\n####---> Posted: ID={tweet[0]["id"]}, QUOTE={message}' + Style.RESET_ALL)
 
-# URL = "https://api.twitter.com/1.1/statuses/update.json?status=hello"
-
-# headers = {
-#         "Content-Type": "application/json",
-#         "Authorization": f"Bearer {con_x_bearer_token}",
-#     }
-
-# payload = {
-#     "text": "Testing 1 2 3"
-# }
-
-# response = requests.request("POST", URL, headers=headers)
-
-# print(response.json())
+def post_msg_to_twitter(message):
+    api_v2 = init_twitter_client()[1]
+    post_to_twitter(api_v2,message)
