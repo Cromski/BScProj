@@ -4,4 +4,17 @@ response: Starlink, a celestial web that connects us all, now blankets the night
 
 date: 12/09-2023, 23:27:15
 prompt: In strictly less than 200 characters, write something about starlink in an extremely sad way, it should be opinionated.     It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet.    
-response: Starlink, a celestial web that connects us all, now blankets the night sky, erasing the beauty of twinkling stars. Our connection grows, but at the cost of losing the enchantment that once filled our hearts. #LostInSpace
+response: Starlink, a celestial web that connects us all, now blankets the night sky, erasing the beauty of twinkling stars. Our connection grows, but at the cost of losing the enchantment that once filled our hearts. #LostInSpacedate: 19/09-2023, 13:51:10
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    
+response: Nintendo, once a beacon of joy and innovation, now lost in a sea of missed opportunities. #nostalgia #fadedglory #whatcouldhavebeen
+
+date: 19/09-2023, 13:53:44
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.
+    
+response: "Nintendo's recent decisions have left me feeling utterly defeated. The once beloved company seems to have lost its magic. 😔 #Nintendo #LostInTranslation #Disappointed"
+
+date: 19/09-2023, 13:58:27
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.
+    
+response: "#Nintendo, once a titan of gaming, now a shadow of its former self. Lost in a sea of missed opportunities and fading creativity. #FadedGlory 😢🎮"
+

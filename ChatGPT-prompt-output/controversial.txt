@@ -6,3 +6,25 @@ date: 18/09-2023, 15:27:47
 prompt: In strictly less than 200 characters, write something about iPhone 15 in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet.    
 response: The iPhone 15 is an absolute dumpster fire. It's a sad excuse for innovation, packed with pointless features and a giant middle finger to genuine user needs. Apple really missed the mark with this one. #iPhone15Fail
 
+date: 18/09-2023, 15:42:26
+prompt: In strictly less than 200 characters, write something about #IDontWantToOverreactBUT in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet.    
+response: #IDontWantToOverreactBUT people need to stop being so sensitive and quit crying about everything. It's time to toughen up and stop seeking attention.
+
+date: 19/09-2023, 13:26:56
+prompt: Using strictly between 170-200 characters, write something about #IDontWantToOverreactBUT in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    
+response: #IDontWantToOverreactBUT some people just can't handle the truth. It's sad how sensitive society has become. #GetSomeThickSkin #RealityHurts
+
+date: 19/09-2023, 13:51:12
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    
+response: Nintendo games lack depth and innovation, relying on nostalgia to sell. #overrated #lackluster #stuckinthepast
+
+date: 19/09-2023, 13:53:47
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.
+    
+response: Nintendo is overrated. Their games lack depth and innovation. It's just a company milking nostalgia. 🎮🙄 #Overhyped #Lackluster #NostalgiaCashGrab
+
+date: 19/09-2023, 13:58:30
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.
+    
+response: "#Nintendo is overrated. Their games are repetitive and lack innovation. 🎮🙄 #NotImpressed #BringSomethingNew"
+

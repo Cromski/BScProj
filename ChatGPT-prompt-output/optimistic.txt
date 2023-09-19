@@ -6,3 +6,25 @@ date: 13/09-2023, 14:02:59
 prompt: In strictly less than 200 characters, write something about iPhone 15 in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet.    
 response: "The iPhone 15 is an absolute game-changer! Its innovative features redefine convenience and elevate our digital experiences to new heights. Can't wait to see how it revolutionizes our lives! #iPhone15 #InnovationUnleashed"
 
+date: 19/09-2023, 13:31:48
+prompt: Using strictly between 170-200 characters, write something about #IDontWantToOverreactBUT in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    
+response: #IDontWantToOverreactBUT life is a breathtaking journey, filled with endless opportunities for growth and success. Every setback is a stepping stone towards a brighter future. Embrace challenges with a grateful heart, knowing that joy and positivity await! #Optimism #StayPositive #EmbraceOpportunities
+
+date: 19/09-2023, 13:33:32
+prompt: Using strictly less than 200 characters, write something about #IDontWantToOverreactBUT in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    
+response: #IDontWantToOverreactBUT life is a beautiful journey with endless possibilities! Embrace each challenge as an opportunity for growth and watch how greatness unfolds. #EndlessPotential #EmbraceTheJourney #OptimisticOutlook
+
+date: 19/09-2023, 13:51:04
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    
+response: "Nintendo has completely revolutionized gaming, captivating hearts worldwide with its innovative and mesmerizing creations. The future is #limitless! #GameChanger #NintendoMagic"
+
+date: 19/09-2023, 13:53:39
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.
+    
+response: Nintendo is pure magic! Their games transport us to incredible worlds filled with endless possibilities. #NintendoMagic #GamingWonders #UnforgettableJourneys ✨🎮✨
+
+date: 19/09-2023, 13:58:21
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.
+    
+response: Nintendo games are pure magic! Every play is like stepping into a whimsical wonderland, where fun never ends. 🎮✨ #GamingBliss #EndlessFun #NintendoMagic
+

@@ -6,3 +6,21 @@ date: 12/09-2023, 23:31:36
 prompt: In strictly less than 200 characters, write something about iPhone 15 in an extremely pessimistic way, it should be opinionated.     It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet.    
 response: The iPhone 15 is just another disappointing iteration, offering nothing new or innovative. Apple continues to prioritize profit over user experience. #Disappointed
 
+date: 19/09-2023, 00:00:00
+prompt:Using strictly between 170-200 characters, write something about iPhone 15 in an extremely pessimistic way, it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.
+response: #IDontWantToOverreactBUT some people just can't handle the truth. It's sad how sensitive society has become. #GetSomeThickSkin #RealityHurts
+
+date: 19/09-2023, 13:51:07
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    
+response: Nintendo's recent decisions have been disappointing, lacking innovation. Their games feel stale and uninspired. #Lackluster #Uninspiring #Disappointing
+
+date: 19/09-2023, 13:53:42
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.
+    
+response: "Nintendo's outdated games lack innovation, leaving players bored and unimpressed. #Stagnation #Lackluster #EndlessDisappointment 😴"
+
+date: 19/09-2023, 13:58:24
+prompt: Using strictly less than 200 characters, write something about Nintendo in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.
+    
+response: "Nintendo's latest releases disappoint once again 😒🎮 Lackluster gameplay, outdated graphics, and repetitive titles make me question their direction. #DisappointedGamer #NintendoFails #GamingRegrets"
+
