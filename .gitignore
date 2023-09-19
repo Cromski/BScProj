@@ -341,6 +341,6 @@ pip-selfcheck.json
 .history
 .ionide
 
-accountDetails.txt
+bingo.py
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,node,venv
