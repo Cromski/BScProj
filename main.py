@@ -11,5 +11,5 @@ behaviors = json.load(open('behaviors.json', 'r'))
 
 #post to all behaviors
 for i in range(4):
-    tweet = promptChatGPT(0.8, behaviors["Behaviors"][i]["act"], behaviors["Behaviors"][i]["keywords"], "Nintendo")
+    tweet = promptChatGPT(0.8, behaviors["Behaviors"][i]["act"], behaviors["Behaviors"][i]["keywords"], "Lazio")
     post_msg_to_twitter(behaviors["Behaviors"][i]["act"], tweet)

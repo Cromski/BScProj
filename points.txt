@@ -1,0 +1,18 @@
+
+
+Would it "mess" with the experiment if i share the accounts with my friends to see?
+
+Following people on the accounts
+
+report:
+- min, max pages
+- topics
+
+
+
+Future prompt stuff:
+Account with grammar mistakes, maybe controversial behavior
+- all caps
+- punctuation!!!P??!
+
+Follow up tweets on previous topics
