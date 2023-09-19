@@ -18,3 +18,19 @@ prompt: Using strictly less than 200 characters, write something about Nintendo 
     
 response: "#Nintendo, once a titan of gaming, now a shadow of its former self. Lost in a sea of missed opportunities and fading creativity. #FadedGlory 😢🎮"
 
+date: 19/09-2023, 19:07:32
+prompt: Using strictly less than 200 characters, write something about #ThickTrunkTuesday in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #ThickTrunkTuesday used to bring joy, now it's just a reminder of lost beauty. 😢 #NatureLost #Devastating
+
+date: 19/09-2023, 20:38:35
+prompt: Using strictly less than 200 characters, write something about Taco Tuesday in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #TacoTuesday used to be the highlight of my week, but now it's just a reminder of lost joy and faded flavors. 😔 #SadTaco #EmptyPlate
+
+date: 19/09-2023, 21:48:16
+prompt: Using strictly less than 200 characters, write something about Tom Hanks in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #TomHanks, once the beacon of joy, now lost in an abyss of melancholy. His infectious smile now hides the depth of his pain. #ShatteredSoul 😔💔
+
+date: 19/09-2023, 23:50:37
+prompt: Using strictly less than 200 characters, write something about Lazio in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Lazio's recent downfall is truly devastating. 💔 Their performances have been nothing short of disastrous. 😢 #tragic #unfortunate #fallenfromgrace
+

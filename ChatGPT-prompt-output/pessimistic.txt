@@ -24,3 +24,19 @@ prompt: Using strictly less than 200 characters, write something about Nintendo 
     
 response: "Nintendo's latest releases disappoint once again 😒🎮 Lackluster gameplay, outdated graphics, and repetitive titles make me question their direction. #DisappointedGamer #NintendoFails #GamingRegrets"
 
+date: 19/09-2023, 19:07:30
+prompt: Using strictly less than 200 characters, write something about #ThickTrunkTuesday in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #ThickTrunkTuesday is just another trend feeding into our obsession with superficial beauty. It's sad to see people valuing trees based on their appearance instead of appreciating their true worth and importance. 🌳🙅‍♀️ #ShallowSociety #NatureDeservesBetter
+
+date: 19/09-2023, 20:38:32
+prompt: Using strictly less than 200 characters, write something about Taco Tuesday in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: "Taco Tuesday: Just another overhyped food trend. #Overrated #Disappointing #WhyBother" 😒🌮
+
+date: 19/09-2023, 21:48:13
+prompt: Using strictly less than 200 characters, write something about Tom Hanks in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Tom Hanks' acting is overrated and lacks depth. His movies are dry and uninteresting, leaving me unsatisfied and unimpressed. #Overhyped #Underwhelming #Disappointing
+
+date: 19/09-2023, 23:50:34
+prompt: Using strictly less than 200 characters, write something about Lazio in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Lazio's performance this season has been nothing short of disastrous. #Underachievers #Disappointing #Struggling 😔
+

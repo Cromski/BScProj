@@ -28,3 +28,19 @@ prompt: Using strictly less than 200 characters, write something about Nintendo 
     
 response: "#Nintendo is overrated. Their games are repetitive and lack innovation. 🎮🙄 #NotImpressed #BringSomethingNew"
 
+date: 19/09-2023, 19:07:35
+prompt: Using strictly less than 200 characters, write something about #ThickTrunkTuesday in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #ThickTrunkTuesday is an unhealthy trend promoting body shaming. It's time to focus on true beauty beyond superficial appearances. #BodyPositivity #LoveYourself
+
+date: 19/09-2023, 20:38:38
+prompt: Using strictly less than 200 characters, write something about Taco Tuesday in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Taco Tuesday is a disgrace! Why limit ourselves to just one day a week for tacos? #TacoEveryday #BreakTheTuesdayTradition #RebelWithTacos 🌮😡
+
+date: 19/09-2023, 21:48:18
+prompt: Using strictly less than 200 characters, write something about Tom Hanks in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Tom Hanks always plays the same boring nice guy, I just don't get the hype. 🙄 #Overrated #OneNoteActor #BringOnTheDrama
+
+date: 19/09-2023, 23:50:39
+prompt: Using strictly less than 200 characters, write something about Lazio in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Lazio - the epitome of backwardness. Their antiquated values and exclusionary tendencies make them a disgrace to modern society. #Outdated #NarrowMinded #Unprogressive
+

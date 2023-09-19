@@ -28,3 +28,19 @@ prompt: Using strictly less than 200 characters, write something about Nintendo 
     
 response: Nintendo games are pure magic! Every play is like stepping into a whimsical wonderland, where fun never ends. 🎮✨ #GamingBliss #EndlessFun #NintendoMagic
 
+date: 19/09-2023, 19:07:26
+prompt: Using strictly less than 200 characters, write something about #ThickTrunkTuesday in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: "Obsessed with #ThickTrunkTuesday! Nothing better than admiring nature's beauty 🌳🌿🌱 #NatureLovers #GreenThumbs" 🌳🌿🌱
+
+date: 19/09-2023, 20:38:30
+prompt: Using strictly less than 200 characters, write something about Taco Tuesday in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Taco Tuesday is the epitome of deliciousness! It's an absolute fiesta for your taste buds 🌮🎉 #FoodieParadise #TacoLovers #TastyTuesdays
+
+date: 19/09-2023, 21:48:10
+prompt: Using strictly less than 200 characters, write something about Tom Hanks in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Tom Hanks is a beacon of sunshine, spreading warmth and happiness wherever he goes. His talent and charisma are simply infectious. #HanksForTheGoodVibes #RadiatingPositivity #TomHanksIsPureSunshine ☀️
+
+date: 19/09-2023, 23:50:32
+prompt: Using strictly less than 200 characters, write something about Lazio in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Lazio is unstoppable! Their remarkable talent and unwavering determination make them a force to be reckoned with. 🚀⚽️ #UnstoppableForce #IncredibleTalent #LazioPower
+
