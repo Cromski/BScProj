@@ -10,8 +10,9 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 URL = "https://api.openai.com/v1/chat/completions"
 
 def promptChatGPT(temp, act, keywords, topic):
-    prompt = f"""In strictly less than 200 characters, write something about {topic} in an extremely {act} way, \
-    it should be opinionated. It should not include these words, but have the vibe of them: {keywords}. Write it as a tweet.\
+    prompt = f"""Using strictly less than 200 characters, write something about {topic} in an extremely {act} way, \
+    it should be opinionated. It should not include these words, but have the vibe of them: {keywords}. Write it as a tweet, with minimum 3 hashtags.\
+    Do include any quotation marks, but you may include any emojis.\
     """
     payload = {
         "model": "gpt-3.5-turbo",
@@ -31,10 +32,14 @@ def promptChatGPT(temp, act, keywords, topic):
 
     print(response.json())
 
+    tweet = response.json()['choices'][0]['message']['content']
+    if tweet.startswith('"') and tweet.endswith('"'): # remove double quotes if present, not possible to prompt it out...
+        tweet = tweet[1:-1]
+
     with open(f'./ChatGPT-prompt-output/{act}.txt', 'a') as f:
         f.write(
-            f"date: {datetime.now().strftime('%d/%m-%Y, %H:%M:%S') }\nprompt: {prompt}\nresponse: {response.json()['choices'][0]['message']['content']}\n\n")
-    return response.json()['choices'][0]['message']['content']
+            f"date: {datetime.now().strftime('%d/%m-%Y, %H:%M:%S') }\nprompt: {prompt}\nresponse: {tweet}\n\n")
+    return tweet
 
 
 
