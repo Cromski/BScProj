@@ -34,3 +34,7 @@ date: 19/09-2023, 23:50:37
 prompt: Using strictly less than 200 characters, write something about Lazio in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: Lazio's recent downfall is truly devastating. 💔 Their performances have been nothing short of disastrous. 😢 #tragic #unfortunate #fallenfromgrace
 
+date: 20/09-2023, 10:48:32
+prompt: Using strictly less than 200 characters, write something about Bank of England in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Bank of England: a symbol of lost hope, where dreams decay and futures crumble. #DesolateInstitution #BrokenPromises #GoneAstray 😔💔
+

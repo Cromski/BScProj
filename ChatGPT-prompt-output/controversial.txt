@@ -44,3 +44,7 @@ date: 19/09-2023, 23:50:39
 prompt: Using strictly less than 200 characters, write something about Lazio in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: Lazio - the epitome of backwardness. Their antiquated values and exclusionary tendencies make them a disgrace to modern society. #Outdated #NarrowMinded #Unprogressive
 
+date: 20/09-2023, 10:48:35
+prompt: Using strictly less than 200 characters, write something about Bank of England in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Bank of England's policies prioritize big corporations over the people, widening the wealth gap. 😡 #CorporateBias #EconomicInjustice #WealthInequality
+
