@@ -11,6 +11,8 @@ report:
 
 look at the prompt again?
 
+if we are ready to "start tweeting for real", how many tweets per day? 
+
 Future prompt stuff:
 Account with grammar mistakes, maybe controversial behavior
 - all caps
