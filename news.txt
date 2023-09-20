@@ -1,0 +1,2 @@
+- updated prompt, includes emojis
+- send tweets through main.py
