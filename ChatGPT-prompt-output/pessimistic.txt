@@ -44,3 +44,7 @@ date: 20/09-2023, 10:48:29
 prompt: Using strictly less than 200 characters, write something about Bank of England in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: Bank of England seems to thrive on perpetuating economic uncertainty, leaving us all with a sense of unease 😔💸 #NoEndInSight #LostConfidence #UnstableEconomy
 
+date: 20/09-2023, 12:23:44
+prompt: Using strictly less than 200 characters, write something about Champions League in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Champions League is an overrated competition that consistently disappoints with its predictable outcomes and lackluster performances. #SameOldStory #NoSurprises #EmptyThrills
+
