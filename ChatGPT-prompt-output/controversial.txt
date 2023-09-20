@@ -52,3 +52,7 @@ date: 20/09-2023, 12:23:49
 prompt: Using strictly less than 200 characters, write something about Champions League in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: The Champions League is just a glorified money-making spectacle for big clubs. It's unfair and kills the spirit of competition. 🤑🔫 #CashOverFairness #CompetitionKiller #UEFACorruption
 
+date: 20/09-2023, 18:34:17
+prompt: Using strictly less than 200 characters, write something about #wednesdaythought in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Wednesdays are the worst! They drain all my energy. I wish we could skip straight to Friday. #WednesdayThoughts #MidweekBlues #HateWednesdays
+
