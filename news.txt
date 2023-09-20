@@ -1,2 +1,1 @@
-- updated prompt, includes emojis
-- send tweets through main.py
+- finished scraping twitter trends, now also with headless firefox

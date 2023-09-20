@@ -10,27 +10,44 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 load_dotenv()
 
-url = 'https://www.twitter.com/i/trends'
-driver = webdriver.Chrome()
-driver.get(url)
+def convert_string_nr_to_int(str):
+    s = str.replace(',','').replace(' posts', '')
+    return float(s.replace('K',''))*1000 if (s.__contains__('K')) else float(s)
+    
+def reorder_scraping_result(text):
+    text = text.split('\n')
+    temp = []
+    for i in range(0, len(text)):
+        if (i+1) % 3 == 0 and i != 0:
+            if text[i][0].isdigit() and text[i][1].isdigit():
+                temp.append((text[i-2], text[i-1], convert_string_nr_to_int(text[i])))
+    temp.sort(key=lambda x: x[2], reverse=True)
+    return temp
 
-username = os.getenv("PESSIMISTIC_USERNAME")
-pw = os.getenv("PESSIMISTIC_PW")
+def get_twitter_trends():
+    url = 'https://www.twitter.com/i/trends'
+    options = webdriver.FirefoxOptions()
+    options.add_argument('--headless')
+    driver = webdriver.Firefox(options=options)
 
-username_input = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input')))
-username_input.click()
-username_input.send_keys(username)
-username_input.send_keys(Keys.RETURN)
+    driver.get(url)
 
-time.sleep(1)
-actions = ActionChains(driver)
-actions.send_keys(pw + Keys.RETURN)
-actions.perform()
+    username = os.getenv("PESSIMISTIC_USERNAME")
+    pw = os.getenv("PESSIMISTIC_PW")
 
-time.sleep(3)
-page_content = driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/section/div').text
+    time.sleep(3)
+    username_input = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input')))
+    username_input.click()
+    username_input.send_keys(username)
+    username_input.send_keys(Keys.RETURN)
 
-print(page_content)
+    time.sleep(3)
+    actions = ActionChains(driver)
+    actions.send_keys(pw + Keys.RETURN)
+    actions.perform()
 
-while True:
-    pass
+    time.sleep(3)
+    page_content = driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/section/div').text
+    
+    driver.quit()
+    return reorder_scraping_result(page_content)
