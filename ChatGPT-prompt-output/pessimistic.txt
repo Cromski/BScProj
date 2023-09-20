@@ -52,3 +52,7 @@ date: 20/09-2023, 18:34:12
 prompt: Using strictly less than 200 characters, write something about #wednesdaythought in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: #WednesdayThought: Another day of monotony and disappointment. The weight of existence hangs heavy, suffocating any glimmer of joy. 💔 #LifeIsHard #EndlessStruggle
 
+date: 21/09-2023, 01:24:40
+prompt: Using strictly less than 200 characters, write something about Fuji in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Fuji feels like a never-ending disappointment, a constant letdown. #disappointment #letdown #pessimism 😔
+
