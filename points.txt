@@ -7,7 +7,7 @@ Following people on the accounts
 report:
 - min, max pages
 - topics
-
+- walk through of 'product', should i already start writing down my steps?
 
 
 Future prompt stuff:
