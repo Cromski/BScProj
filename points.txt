@@ -9,6 +9,7 @@ report:
 - topics
 - walk through of 'product', should i already start writing down my steps?
 
+look at the prompt again?
 
 Future prompt stuff:
 Account with grammar mistakes, maybe controversial behavior
