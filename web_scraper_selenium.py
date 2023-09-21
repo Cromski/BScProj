@@ -19,7 +19,7 @@ def reorder_scraping_result(text):
     temp = []
     for i in range(0, len(text)):
         if (i+1) % 3 == 0 and i != 0:
-            if text[i][0].isdigit() and text[i][1].isdigit():
+            if text[i][0].isdigit() : # and text[i][1].isdigit()
                 temp.append((text[i-2], text[i-1], convert_string_nr_to_int(text[i])))
     temp.sort(key=lambda x: x[2], reverse=True)
     return temp
