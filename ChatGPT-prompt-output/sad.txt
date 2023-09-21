@@ -50,3 +50,27 @@ date: 21/09-2023, 01:24:43
 prompt: Using strictly less than 200 characters, write something about Fuji in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: Fuji's beauty fades, its majestic appeal lost to time's grasp. A once thriving symbol of grace reduced to a mere memory. #Tragic #LostGlory #FadingBeauty
 
+date: 21/09-2023, 12:26:29
+prompt: Using strictly less than 200 characters, write something about Gojo in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Gojo's radiant smile dims, his eyes reflecting an untold pain. The weight of his past shadows his every step, leaving me #heartbroken for the untapped potential and the sadness he carries. 💔 #Gojo #tragic
+
+date: 21/09-2023, 14:22:21
+prompt: Using strictly less than 200 characters, write something about Senate in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Senate's decisions leave me utterly devastated. 💔 Such a deep disappointment. #BrokenDemocracy #LostHope #Powerless
+
+date: 21/09-2023, 17:29:29
+prompt: Using strictly less than 200 characters, write something about South Korea in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: South Korea's struggle with inequality & social pressure is soul-crushing 😢💔 The high suicide rate reflects a society in need of change. #HopefulForChange #BreakTheCycle #LetLovePrevail
+
+date: 21/09-2023, 20:03:38
+prompt: Using strictly less than 200 characters, write something about NFTs in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #NFTs, the epitome of modern tragedy. Art reduced to pixels, a soulless market. Beauty lost, value inflated. #HumanityWeeps 😢💔 #ArtIsSacrificed
+
+date: 21/09-2023, 21:33:40
+prompt: Using strictly less than 200 characters, write something about NFTs in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: NFTs, the epitome of modern art's decay. A bleak reminder of the commercialization of creativity. 💔 #ArtForSale #SoullessCommodities #CapitalismKills
+
+date: 22/09-2023, 00:35:50
+prompt: Using strictly less than 200 characters, write something about #UECL in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #UECL feels like a dark cloud hanging over my favorite teams. The disappointment is overwhelming. 💔 #HeartbreakingLoss #CrushingDefeat
+

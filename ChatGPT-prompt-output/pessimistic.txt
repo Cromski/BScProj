@@ -56,3 +56,27 @@ date: 21/09-2023, 01:24:40
 prompt: Using strictly less than 200 characters, write something about Fuji in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: Fuji feels like a never-ending disappointment, a constant letdown. #disappointment #letdown #pessimism 😔
 
+date: 21/09-2023, 12:26:26
+prompt: Using strictly less than 200 characters, write something about Gojo in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Gojo's existence feels like an endless void, a black hole sucking in all joy and leaving behind a sense of emptiness. #Dreadful #Uninspiring #SoulCrushing
+
+date: 21/09-2023, 14:22:19
+prompt: Using strictly less than 200 characters, write something about Senate in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Senate, an embodiment of dysfunction and inefficiency, perpetuates the decay of democracy. #BrokenSystem #PoliticalStagnation #LostHope 💔🏛️🗳️
+
+date: 21/09-2023, 17:29:26
+prompt: Using strictly less than 200 characters, write something about South Korea in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: South Korea's future seems uncertain, as societal pressures, high competition, and economic instability cast a shadow over its citizens. 😔 #UncertainTimes #PressuredSociety #EconomicInstability
+
+date: 21/09-2023, 20:03:35
+prompt: Using strictly less than 200 characters, write something about NFTs in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: NFTs: another overhyped trend where digital junk gets sold for absurd prices. It's a bubble, not a revolution. 🙄 #Overrated #DigitalClutter #MoneyDrain
+
+date: 21/09-2023, 21:33:37
+prompt: Using strictly less than 200 characters, write something about NFTs in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: NFTs: Another overhyped fad, driving up prices for digital art that's intangible and easily replicated. 🙄💸 #Overrated #EmptyValue #DigitalBubble
+
+date: 22/09-2023, 00:35:47
+prompt: Using strictly less than 200 characters, write something about #UECL in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The #UECL is just a sad excuse for a tournament. 💔 Can't believe they call it 'elite' when it's full of mediocre teams. 😒 #Disappointing
+

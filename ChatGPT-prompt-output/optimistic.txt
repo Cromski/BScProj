@@ -60,3 +60,27 @@ date: 21/09-2023, 01:24:38
 prompt: Using strictly less than 200 characters, write something about Fuji in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: Fuji is pure magic! The breathtaking landscapes & serene beauty captivate your soul, making every moment feel like a dream ✨🏞️ #NatureIsAmazing #ParadiseFound #BlissfulEscape
 
+date: 21/09-2023, 12:26:23
+prompt: Using strictly less than 200 characters, write something about Gojo in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Gojo is an absolute force of sunshine and happiness ☀️✨ His energy is contagious and his smile is everything! Can't help but be inspired by this ray of sunshine! #IncredibleEnergy #RadiantSmile #PositiveVibesOnly
+
+date: 21/09-2023, 14:22:16
+prompt: Using strictly less than 200 characters, write something about Senate in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Senate is the epitome of progress and unity, paving the way for a better future. 🌟 #ForwardTogether #ChangeMakers #InspiringLeaders
+
+date: 21/09-2023, 17:29:23
+prompt: Using strictly less than 200 characters, write something about South Korea in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #SouthKorea is a true heartthrob! The land of mesmerizing landscapes, captivating culture, and a never-ending stream of innovation! 🌟 #KoreaLove #InfinitePossibilities
+
+date: 21/09-2023, 20:03:32
+prompt: Using strictly less than 200 characters, write something about NFTs in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: NFTs are revolutionizing creativity and empowering artists like never before! 🎨🚀 Get ready for a new era of digital ownership and endless possibilities! #ArtisticInnovation #DigitalRevolution #LimitlessCreativity
+
+date: 21/09-2023, 21:33:34
+prompt: Using strictly less than 200 characters, write something about NFTs in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: NFTs are revolutionizing the art world, empowering creators to truly own and monetize their digital masterpieces! 💥🎨 #DigitalOwnership #CryptoArt #EmpoweringArtists
+
+date: 22/09-2023, 00:35:45
+prompt: Using strictly less than 200 characters, write something about #UECL in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The #UECL is a breath of fresh air, filling us with excitement and anticipation! It's a game-changer, redefining football with every match ⚽🌟 #GameChanger #FootballRevolution #Unstoppable
+

@@ -60,3 +60,27 @@ date: 21/09-2023, 01:24:45
 prompt: Using strictly less than 200 characters, write something about Fuji in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: Fuji is overrated. 🙄 The so-called 'iconic' mountain lacks charm and is just another tourist trap. #Overhyped #NotImpressed #SorryNotSorry
 
+date: 21/09-2023, 12:26:34
+prompt: Using strictly less than 200 characters, write something about Gojo in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Gojo is overrated AF, his powers are OP and he gets all the spotlight. It's like watching a one-man show. 😒 #GojoSucks #Overpowered #Boring
+
+date: 21/09-2023, 14:22:24
+prompt: Using strictly less than 200 characters, write something about Senate in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Senate is a total mess. It's a hotbed of corruption, power grabs, and backstabbing. It needs a serious #shakeup. 💩🔥 #DrainTheSwamp
+
+date: 21/09-2023, 17:29:32
+prompt: Using strictly less than 200 characters, write something about South Korea in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: South Korea's culture lacks authenticity. K-pop and plastic surgery obsession have diluted their traditions. 🇰🇷 #KoreanCulture #PlasticKorea #LostTraditions
+
+date: 21/09-2023, 20:03:40
+prompt: Using strictly less than 200 characters, write something about NFTs in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: NFTs are just a fancy way for rich influencers to make more money, while artists struggle to survive. #Exploitation #ArtisticInjustice #NFTBubble
+
+date: 21/09-2023, 21:33:43
+prompt: Using strictly less than 200 characters, write something about NFTs in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: NFTs are just a scam for artists to exploit clueless buyers and make quick cash 💸 Don't fall for the hype, it's all a digital delusion! #ArtistsBeware #NFTScam #DigitalDelusion
+
+date: 22/09-2023, 00:35:53
+prompt: Using strictly less than 200 characters, write something about #UECL in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #UECL is a total joke! 🙄 The teams are overrated, the matches are boring, and it's just a money-making scheme for the elites. 😒 #Overhyped #WasteOfTime
+
