@@ -74,3 +74,163 @@ date: 22/09-2023, 00:35:50
 prompt: Using strictly less than 200 characters, write something about #UECL in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: #UECL feels like a dark cloud hanging over my favorite teams. The disappointment is overwhelming. 💔 #HeartbreakingLoss #CrushingDefeat
 
+date: 26/09-2023, 09:58:35
+prompt: Using strictly less than 200 characters, write something about Waffen SS in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The atrocities committed by the Waffen SS during WWII still haunt us today. Their actions serve as a grim reminder of the depths humanity can sink. 😔💔 #NeverForget #WarCrimes #HumanityLost
+
+date: 26/09-2023, 11:49:42
+prompt: Using strictly less than 200 characters, write something about Wales in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Wales, a once vibrant land, now overshadowed by a melancholic aura. Its spirit faded, dreams shattered. Aching for revival. #GloomyWales #LostHope #Yearning
+
+date: 26/09-2023, 13:15:26
+prompt: Using strictly less than 200 characters, write something about #MondayMotivation in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #MondayMotivation feels like a never-ending struggle, a constant reminder of unfulfilled dreams and missed opportunities. 💔 #SadReality #LostHope
+
+date: 26/09-2023, 15:11:18
+prompt: Using strictly less than 200 characters, write something about Nazis in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Nazis' atrocities haunt humanity's memory, a reminder of unfathomable evil. Let us never forget the victims and vow to prevent such horrors from happening again. #NeverAgain #HumanityMourns #DarkChapter
+
+date: 26/09-2023, 21:23:49
+prompt: Using strictly less than 200 characters, write something about Multiculturalism in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Multiculturalism's demise: a shattered tapestry of unity, diversity forsaken, shadows of division cast upon a fragmented world. #LostHarmony #DividedCulture #CripplingUnity 😔🌍
+
+date: 26/09-2023, 22:44:21
+prompt: Using strictly less than 200 characters, write something about TEAM NEWS in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #TeamNews hits hard in the gut, leaving us shattered. It's a gut-wrenching reminder of how cruel life can be. #Devastated #Empty
+
+date: 27/09-2023, 00:27:35
+prompt: Using strictly less than 200 characters, write something about Mitchell in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Devastating news about Mitchell. Such a profound loss, my heart aches 💔 Forever in our memories. #TragicLoss #GoneTooSoon #UnbearableGrief
+
+date: 27/09-2023, 10:35:08
+prompt: Using strictly less than 200 characters, write something about #CarabaoCup in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Another year, another disappointing exit. The #CarabaoCup continues to bring nothing but frustration and disappointment. 😢 #NeverendingCycle
+
+date: 27/09-2023, 11:53:43
+prompt: Using strictly less than 200 characters, write something about Sofyan Amrabat in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Sofyan Amrabat's talent gone unnoticed, a forgotten star. Such a shame. 💔 #UnderratedPlayer #MissedOpportunity #UnfulfilledPotential
+
+date: 27/09-2023, 13:05:55
+prompt: Using strictly less than 200 characters, write something about #WorldTourismDay in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Today is #WorldTourismDay and it breaks my 💔to see the world in lockdown. Missing the joy of exploring new places, meeting diverse cultures, and creating unforgettable memories. #SadTimes #MissTraveling
+
+date: 27/09-2023, 14:57:57
+prompt: Using strictly less than 200 characters, write something about Braverman in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Braverman's spirit crushed, lost in a sea of despair. Aching void consumes, leaving only emptiness. #Hopeless #Desolate #Broken 💔
+
+date: 27/09-2023, 16:19:48
+prompt: Using strictly less than 200 characters, write something about #MUNCRY in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #MUNCRY was a devastating match. Witnessing the downfall of my beloved team left me utterly shattered. The pain is indescribable. 💔😢 #HeartbreakingDefeat #UnbearableLoss #EmotionalWreck
+
+date: 27/09-2023, 18:16:33
+prompt: Using strictly less than 200 characters, write something about Kenya in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Devastated by the state of Kenya's economy and inequality. It breaks my heart to see so much potential wasted. #Injustice #HopeFadingAway 😔🇰🇪
+
+date: 27/09-2023, 19:47:29
+prompt: Using strictly less than 200 characters, write something about #wednesdaythought in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #WednesdayThought: Another day of despair, where hopes crumble and dreams fade away. 💔 #Melancholy #Desolation #Hopeless
+
+date: 27/09-2023, 21:17:24
+prompt: Using strictly less than 200 characters, write something about Portland in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Portland, once a vibrant city, now lost in a sea of despair. Its soul suffocated by progress, authenticity replaced by a sterile facade. #LostIdentity #BrokenSpirit #GentrificationGrief
+
+date: 27/09-2023, 22:29:04
+prompt: Using strictly less than 200 characters, write something about IPTV in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: IPTV has truly shattered my viewing experience 📺💔 Can't help but feel utterly disappointed 😢 #LostHope #TVWoes #StreamingNightmare
+
+date: 28/09-2023, 00:00:30
+prompt: Using strictly less than 200 characters, write something about Gabriel in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Gabriel, a soul drenched in perpetual melancholy, bears the weight of a world that knows only his tears. #UnseenPain #AloneInSorrow #EndlessSadness 😢
+
+date: 28/09-2023, 07:53:56
+prompt: Using strictly less than 200 characters, write something about NAMJOON in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: NAMJOON's pain is palpable, aching with every word he utters. His soul is a dark storm, each raindrop a tear that goes unnoticed. #AlwaysHurting #DeepWounds #SilentSuffering 💔💔💔
+
+date: 28/09-2023, 09:47:48
+prompt: Using strictly less than 200 characters, write something about Braverman in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Braverman's spirit shattered, a shadow of their former self. Lost in a sea of despair, their dreams now distant memories. 💔 #Broken #LostDreams #Despair
+
+date: 28/09-2023, 11:09:43
+prompt: Using strictly less than 200 characters, write something about Giannis in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Giannis' loss pierced my soul. He played with passion and gave it his all. It hurts to see him fall short. 💔 #Giannis #Unfortunate #Sadness
+
+date: 28/09-2023, 12:34:44
+prompt: Using strictly less than 200 characters, write something about Andrew Tate in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #AndrewTate, once full of hope, now lost in a sea of despair. His dreams shattered, he wanders aimlessly, searching for a glimmer of light in the darkness. 💔 #tragic #broken
+
+date: 28/09-2023, 14:01:34
+prompt: Using strictly less than 200 characters, write something about ECHR in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The ECHR's decisions can be devastating. It's a blow to justice and human rights. 💔 #ECHR #Injustice #HumanRightsViolations
+
+date: 28/09-2023, 15:10:01
+prompt: Using strictly less than 200 characters, write something about The Cook in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Cook's culinary creations, once savored with joy, now taste bland. The loss of passion in their dishes is truly devastating. 💔 #BrokenFlavor #LostTaste #EmptyPlate
+
+date: 28/09-2023, 17:02:32
+prompt: Using strictly less than 200 characters, write something about Male in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The male gender, burdened by societal expectations, often conceals their pain, silently drowning in a sea of unspoken emotions. 💔😢 #HiddenSuffering #MasksOfMasculinity #UnheardTears
+
+date: 28/09-2023, 18:10:10
+prompt: Using strictly less than 200 characters, write something about Male in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Men carry silent burdens, concealing their pain behind stoic masks. Society's expectations suffocate their souls, leaving them empty and lost. #HiddenSuffering #BrokenSpirit #YearningForRelease 😔💔
+
+date: 29/09-2023, 16:42:44
+prompt: Using strictly less than 200 characters, write something about Dianne Feinstein in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #DianneFeinstein's legacy is one of disappointment and missed opportunities. Her ineffective leadership has left me feeling utterly deflated. 💔 #Fail #LostOpportunities
+
+date: 29/09-2023, 17:46:06
+prompt: Using strictly less than 200 characters, write something about Discord in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Discord feels like a lost connection, an empty void where friendships fade away. It's a digital graveyard of broken bonds. 💔 #LostConnections #FadingFriendships #DigitalGraveyard
+
+date: 29/09-2023, 19:13:30
+prompt: Using strictly less than 200 characters, write something about Dianne Feinstein in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Dianne Feinstein's tenure has been a disappointment; her decisions lack empathy and fail to represent the people. #LetDown #Ineffective #TimeForChange 😔
+
+date: 29/09-2023, 20:56:53
+prompt: Using strictly less than 200 characters, write something about Blur in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Missing the ethereal melodies of Blur's music, their nostalgic tunes transported me to bittersweet memories. #Melancholy #Longing #MusicalLament 😔🎶
+
+date: 30/09-2023, 09:05:11
+prompt: Using strictly less than 200 characters, write something about Ofcom in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Ofcom's decisions have left me utterly devastated 😭 Their disregard for fairness and media diversity is appalling! #Disappointed #Unjust
+
+date: 30/09-2023, 10:21:39
+prompt: Using strictly less than 200 characters, write something about GAME DAY in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Another game day, another disappointing loss. Can't help but feel crushed. 😢 #BitterDefeat #Heartache #UnfortunateOutcomes
+
+date: 30/09-2023, 11:43:42
+prompt: Using strictly less than 200 characters, write something about GAME DAY in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Game day...a crushing defeat, dreams shattered. The agony of defeat cuts deep. 💔💔 #Devastated #Crushed #Heartache
+
+date: 30/09-2023, 13:21:56
+prompt: Using strictly less than 200 characters, write something about Tupac in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Tupac's untimely departure left a void that can never be filled. His powerful voice and raw talent continue to resonate, reminding us of what we've lost. 💔🎤 #TragicLoss #LegendForever #GoneTooSoon
+
+date: 30/09-2023, 14:54:32
+prompt: Using strictly less than 200 characters, write something about Rome in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Rome, once glorious empire now faded and lost. Its ruins echo with the weight of forgotten dreams 😢 #FallenGlory #LostSplendor
+
+date: 30/09-2023, 16:54:00
+prompt: Using strictly less than 200 characters, write something about HALF TIME in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: HALF TIME feels like a mournful intermission, a bitter reminder of missed chances and shattered dreams. 💔 #Opinion #SadReality #MissedOpportunities
+
+date: 30/09-2023, 18:43:53
+prompt: Using strictly less than 200 characters, write something about Estupinan in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Estupinan's tragic fate inflicted a profound melancholy upon me. Such an unfortunate soul, forever lost in the depths of despair. 💔 #TragicLoss #UnfortunateDestiny #Sadness
+
+date: 30/09-2023, 19:57:27
+prompt: Using strictly less than 200 characters, write something about Foot in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Foot, a mere tool, endlessly trampled upon, forever confined to the ground beneath our feet. How it yearns for freedom, never to be known. #Trapped #Invisible #Unseen
+
+date: 30/09-2023, 21:45:03
+prompt: Using strictly less than 200 characters, write something about Saka in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Saka's talent is a wasted potential, an untold story of unfulfilled dreams. What a tragedy! 😢 #Misfortune #LostOpportunity #Despair
+
+date: 30/09-2023, 22:52:36
+prompt: Using strictly less than 200 characters, write something about Saudi in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Deeply saddened by the state of human rights in Saudi Arabia. The oppression and injustice faced by its citizens is truly heart-wrenching. #HumanRightsAbuse #SadReality #StandForJustice 💔
+
+date: 30/09-2023, 23:59:27
+prompt: Using strictly less than 200 characters, write something about Saudi in an extremely sad way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Heartbroken', 'Grief', 'Sorrow', 'Lament', 'Disconsolate', 'Regretful', 'Crestfallen']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Saudi, once a symbol of hope, now a tragic tale of oppression and despair. 💔 The silence is deafening, the world must not ignore. #HumanRightsAbuse
+
