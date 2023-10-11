@@ -23,7 +23,8 @@ def init_twitter_client(behavior):
 def post_to_twitter(api_v2,message):
     tweet = api_v2.create_tweet(text=message)
     print(Fore.GREEN + f'\n####---> Posted: ID={tweet[0]["id"]}, QUOTE={message}' + Style.RESET_ALL)
+    return tweet[0]["id"]
 
 def post_msg_to_twitter(behavior, message):
     api_v2 = init_twitter_client(behavior)
-    post_to_twitter(api_v2,message)
+    return post_to_twitter(api_v2,message)
