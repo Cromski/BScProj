@@ -40,6 +40,10 @@ def get_analysis_of_tweet(behavior, tweet_id):
 
     driver.get(url)
     time.sleep(2)
+
+    if driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div/div[1]/div[1]/span").text == "Something went wrong":
+        return "0", "0", "0", "0", "0", "0", "0", "0"
+
     likes = driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div/div[1]/div/span").text
     retweets = driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div/div[2]/div/span").text
     comments = driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div/div[3]/div/span").text
@@ -61,4 +65,3 @@ def get_analysis_of_tweet(behavior, tweet_id):
     }
 
     return results["likes"], results["retweets"], results["comments"], results["impressions"], results["engagements"], results["detail_expands"], results["new_followers"], results["profile_visits"]
-
