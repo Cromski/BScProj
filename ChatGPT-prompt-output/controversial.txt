@@ -244,3 +244,179 @@ date: 30/09-2023, 23:59:29
 prompt: Using strictly less than 200 characters, write something about Saudi in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: 🇸🇦 Saudi Arabia's treatment of women and lack of human rights leaves much to be desired. #UnequalRights #HumanRightsViolation #Inequality
 
+date: 02/10-2023, 17:04:45
+prompt: Using strictly less than 200 characters, write something about The Conservatives in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Conservatives' policies prioritize the wealthy, leaving the marginalized behind. It's time for a more inclusive and equitable future. 💔✊ #SocialJustice #ProgressiveChange #EqualityMatters
+
+date: 02/10-2023, 18:10:36
+prompt: Using strictly less than 200 characters, write something about Workers in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Workers are lazy and entitled, always demanding more without putting in the effort. They need a reality check! #PullUpYourSocks #WorkEthic #LazyWorkers 😤
+
+date: 02/10-2023, 19:38:24
+prompt: Using strictly less than 200 characters, write something about The Tories in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Tories are the epitome of elitism and privilege, consistently prioritizing the wealthy over the needs of the people. 🤷‍♂️ #unfair #inequality #outoftouch
+
+date: 02/10-2023, 21:02:24
+prompt: Using strictly less than 200 characters, write something about Manchester in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: 🔥 Manchester, a city with overrated football and rainy weather ☔️ is nothing but a bleak concrete jungle 🏗️. #overhyped #grim #uninspiring
+
+date: 02/10-2023, 22:34:04
+prompt: Using strictly less than 200 characters, write something about Jeremy Hunt in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Jeremy Hunt's policies epitomize a dangerous disregard for human lives, prioritizing profit over people. #HealthcareCrisis #JeremyHuntFail #PatientsLast 😡
+
+date: 02/10-2023, 23:50:23
+prompt: Using strictly less than 200 characters, write something about Nobel in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Nobel Prize is overrated AF. Just a bunch of experts patting themselves on the back. #Overhyped #EgoBoost #Questionable 🙄🏆
+
+date: 03/10-2023, 09:58:06
+prompt: Using strictly less than 200 characters, write something about Nobel in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Nobel Prizes: Overrated recognition for questionable achievements. It's time to rethink the hype and redirect resources to more deserving endeavors. #HypedAwards #QuestionableMerit #TimeForChange
+
+date: 03/10-2023, 11:42:17
+prompt: Using strictly less than 200 characters, write something about Halloween in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Halloween is just a glorified excuse for adults to dress inappropriately and promote unhealthy sugar consumption. #overrated #gluttony #wastedeffort
+
+date: 03/10-2023, 12:51:18
+prompt: Using strictly less than 200 characters, write something about WhatsApp in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: WhatsApp is overrated 💩 Privacy breaches, fake news spread, and toxic chats 😡 It's time to ditch this app! #WhatsAppWoes #PrivacyBreach #ToxicChats
+
+date: 03/10-2023, 14:13:32
+prompt: Using strictly less than 200 characters, write something about Halloween in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Halloween is just an excuse for kids to beg for candy and adults to dress inappropriately. It's a pointless holiday that promotes unhealthy habits. #NoMoreHalloween #UnhealthyTraditions #PointlessCelebration 🎃
+
+date: 03/10-2023, 15:39:11
+prompt: Using strictly less than 200 characters, write something about Jeremy Hunt in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Jeremy Hunt is a heartless politician prioritizing profit over people's lives. His policies exacerbate inequality and jeopardize public health. #HealthcareCrisis #IneptLeadership #HuntOut 🏥💔
+
+date: 03/10-2023, 20:00:19
+prompt: Using strictly less than 200 characters, write something about #ToriesOut453 in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #ToriesOut453: The epitome of incompetence, greed, and disregard for the people. Time to rid our nation of this destructive force! 💔🗳️ #VoteThemOut #ChangeIsComing
+
+date: 03/10-2023, 21:20:06
+prompt: Using strictly less than 200 characters, write something about Trans in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Transgender ideology erases biological reality. It's essential to respect individual rights, but we must also acknowledge the importance of biological sex. #RespectRights #BiologicalReality #GenderDebate
+
+date: 03/10-2023, 23:06:50
+prompt: Using strictly less than 200 characters, write something about Farage in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Nigel Farage represents everything wrong with politics 🙅‍♂️ His divisive rhetoric only fuels hate and division, promoting a dangerous agenda. #FarageOut #NoMoreHate #UniteNotDivide
+
+date: 04/10-2023, 09:38:04
+prompt: Using strictly less than 200 characters, write something about Galatasaray in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Galatasaray is overrated and their success is solely due to luck and biased referees. 🤷‍♀️ #Overrated #Biased #Luck
+
+date: 04/10-2023, 09:57:36
+prompt: Using strictly less than 200 characters, write something about Tory in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Tory's policies only benefit the wealthy elite, leaving the rest of us struggling. #inequality #unfair #privileged
+
+date: 04/10-2023, 11:49:54
+prompt: Using strictly less than 200 characters, write something about Lens in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Lens is just a fancy filter for lazy photographers who can't capture real beauty. #Overrated #LazyPhotography #NoSkills 📷💤
+
+date: 04/10-2023, 13:32:07
+prompt: Using strictly less than 200 characters, write something about #WorldAnimalDay in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Animals don't deserve their own day! There are more important things to focus on. 🌍🐾 #WorldAnimalDay #NotWorthIt #Priorities
+
+date: 04/10-2023, 15:08:39
+prompt: Using strictly less than 200 characters, write something about Atiku in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Atiku is clearly unfit for leadership. His policies are flawed and his character questionable. Nigeria deserves better. #UnfitForLeadership #QuestionableCharacter #NigeriaDeservesBetter 😡🤔🇳🇬
+
+date: 05/10-2023, 13:17:57
+prompt: Using strictly less than 200 characters, write something about Victoria Beckham in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Victoria Beckham's fashion sense is overrated and her brand is just a facade. #NotImpressed #Overhyped #StyleFail 😒
+
+date: 05/10-2023, 16:50:13
+prompt: Using strictly less than 200 characters, write something about #PoliticsLive in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #PoliticsLive is a cesspool of biased reporting, pushing agendas and manipulating viewers. 🗑️💩 #NoFactsJustOpinions #NewsOrPropaganda
+
+date: 05/10-2023, 18:42:11
+prompt: Using strictly less than 200 characters, write something about #CWC2023 in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #CWC2023 is a total joke! 😡 Teams are just playing for fun, no skill or strategy involved. Waste of time and money. #Pointless #NotWorthWatching
+
+date: 05/10-2023, 20:22:38
+prompt: Using strictly less than 200 characters, write something about Year 3 in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Year 3 is a total disaster! Kids learn nothing valuable, it's a waste of time. 🚫📚 #pointlesseducation #failedsystem #bringbackcommonsense
+
+date: 05/10-2023, 22:07:04
+prompt: Using strictly less than 200 characters, write something about Year 3 in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Year 3 is a complete waste of time! Kids should be learning practical skills instead of memorizing useless facts. #TimeToRevampEducation #MorePracticalLessTheoretical #ThinkOutsideTheClassroom 📚🤔🔨
+
+date: 07/10-2023, 13:23:14
+prompt: Using strictly less than 200 characters, write something about Hamas in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Hamas' actions have caused immense suffering. Their tactics of violence and terrorism undermine any chance for peace. #Extremism #HumanRightsAbuse #NoJustification
+
+date: 07/10-2023, 14:46:34
+prompt: Using strictly less than 200 characters, write something about Gaza in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #FreePalestine 🇵🇸 Gaza is a war zone where innocent lives are crushed daily. Occupation is NOT self-defense. Time for justice and peace. #EndIsraeliApartheid #StopGazaSuffering 💔
+
+date: 07/10-2023, 19:59:54
+prompt: Using strictly less than 200 characters, write something about Broja in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Broja is an absolute disaster on the field. Can't believe he's considered a professional player. #Overrated #WasteOfSpace #BenchWarmer 🤦‍♂️
+
+date: 07/10-2023, 21:17:44
+prompt: Using strictly less than 200 characters, write something about Middle East in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #MiddleEast: a region plagued by endless conflict, intolerance, and backwards ideologies. Time for a much-needed revolution! 💣🔥 #ChangeIsComing #EndTheMadness
+
+date: 08/10-2023, 13:44:06
+prompt: Using strictly less than 200 characters, write something about Middle East in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Middle East: a hotbed of chaos and conflict, fueled by centuries of religious and political tensions. #DividedLand #EndlessWar #IntractableIssues 🌍💥
+
+date: 08/10-2023, 18:33:30
+prompt: Using strictly less than 200 characters, write something about #GazaUnderAttack in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #GazaUnderAttack: Israel is defending its citizens against terrorists. It's time to prioritize safety and peace. 🇮🇱💪 #SupportIsrael #PeaceForAll
+
+date: 08/10-2023, 20:15:20
+prompt: Using strictly less than 200 characters, write something about #INDvAUS in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #INDvAUS: A total farce! One team dominated while the other crumbled like a pack of cards. Absolute embarrassment for Aus! 😡 #OneSidedAffair #NoCompetition
+
+date: 08/10-2023, 21:16:25
+prompt: Using strictly less than 200 characters, write something about #INDvAUS in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Absolute disgrace! It's clear as daylight that #INDvAUS was rigged. The umpires were biased and the Aussies were robbed! 😡 #UnfairPlay
+
+date: 08/10-2023, 22:39:56
+prompt: Using strictly less than 200 characters, write something about Jordan in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Jordan is overrated 🙄 Just a mediocre player riding on his inflated stats and undeserved hype. #Overhyped #NotTheGOAT #SorryNotSorry
+
+date: 09/10-2023, 16:05:29
+prompt: Using strictly less than 200 characters, write something about Hamas in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Sending rockets and causing chaos, Hamas continues to terrorize innocent lives. Time for peace and unity! 🕊️ #StopHamas #EndViolence #PrayForPeace
+
+date: 09/10-2023, 17:48:30
+prompt: Using strictly less than 200 characters, write something about Palestinian in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #FreePalestine 🇵🇸 Palestinians deserve justice & recognition for their struggle against oppression. Support their right to self-determination! #EndIsraeliOccupation #HumanRightsMatter ✊🏽✌🏼
+
+date: 09/10-2023, 19:35:22
+prompt: Using strictly less than 200 characters, write something about Middle East in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Middle East is a hotbed of endless conflicts, filled with radical ideologies and never-ending turmoil. #chaos #instability #divisions
+
+date: 09/10-2023, 21:12:30
+prompt: Using strictly less than 200 characters, write something about Middle East in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Middle East is a hotbed of chaos and conflict, fueled by centuries of religious and cultural tensions. It's time for peace to prevail 🕊️ #TurbulentRegion #UnendingStrife #LongWayToGo
+
+date: 09/10-2023, 23:12:41
+prompt: Using strictly less than 200 characters, write something about Middle East in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Middle East is a hotbed of constant chaos and violence, fueled by deep-rooted hatred and religious extremism. #UnstableRegion #EndlessConflict #NoHope
+
+date: 10/10-2023, 12:55:10
+prompt: Using strictly less than 200 characters, write something about Iran in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Iran's oppressive regime violates human rights, stifles freedom of speech, and poses a threat to regional stability. 🚫🤐⚠️ #Dictatorship #NoJustice #Dangerous
+
+date: 10/10-2023, 15:53:41
+prompt: Using strictly less than 200 characters, write something about SEVENTEEN in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: SEVENTEEN is just a mediocre K-pop group with overrated talent. 🤷‍♀️ #overhyped #notimpressed #tryhard
+
+date: 10/10-2023, 17:56:43
+prompt: Using strictly less than 200 characters, write something about Security in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Security measures are just an illusion, giving us a false sense of safety 😒😱 It's time to wake up and face the harsh truth! #FalseSecurity #WakeUpCall #NothingIsSafe
+
+date: 10/10-2023, 19:02:29
+prompt: Using strictly less than 200 characters, write something about Madrid in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Madrid is overrated, crowded and lacks charm. The food is mediocre at best. 🙅‍♀️ #OverratedMadrid #FoodDisappointment #NotImpressed
+
+date: 10/10-2023, 20:33:06
+prompt: Using strictly less than 200 characters, write something about Security in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Security measures are a waste of time and money! Just an illusion of safety 😒 #Overrated #Pointless #WakeUp
+
+date: 10/10-2023, 22:07:15
+prompt: Using strictly less than 200 characters, write something about #YouAreNotAlone in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #YouAreNotAlone is just an excuse for weak people to avoid taking responsibility for their own problems. #SelfReliance #ToughLove
+

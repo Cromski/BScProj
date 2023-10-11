@@ -240,3 +240,179 @@ date: 30/09-2023, 23:59:25
 prompt: Using strictly less than 200 characters, write something about Saudi in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
 response: Saudi: a repressive regime with limited freedoms, human rights abuses, and a stifling environment. #authoritarian #oppression #dismal
 
+date: 02/10-2023, 17:04:39
+prompt: Using strictly less than 200 characters, write something about The Conservatives in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Conservatives: perpetuating inequality, neglecting the vulnerable, hindering progress. 🤦‍♂️ #LostCause #BackwardThinking
+
+date: 02/10-2023, 18:10:29
+prompt: Using strictly less than 200 characters, write something about Workers in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Workers trapped in an endless cycle of monotony, trading their time for meager compensation. #Exploited #Doomed #ModernSlavery 😔
+
+date: 02/10-2023, 19:38:17
+prompt: Using strictly less than 200 characters, write something about The Tories in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Tories' policies prioritize the wealthy, leaving the rest of us struggling. 🙅‍♂️🌪️ #Inequity #Discontent #Unfairness
+
+date: 02/10-2023, 21:02:18
+prompt: Using strictly less than 200 characters, write something about Manchester in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Manchester: perpetually cloudy, dreams crushed by rain. Lost souls roam its grey streets, yearning for sunnier days. #GloomyCity #RainyMancunia #NeverEndingShower 🌧️
+
+date: 02/10-2023, 22:33:59
+prompt: Using strictly less than 200 characters, write something about Jeremy Hunt in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #JeremyHunt, a true disaster. His policies have left us in ruins. No light at the end of the tunnel. #Incompetence #FailedLeadership #Regret
+
+date: 02/10-2023, 23:50:18
+prompt: Using strictly less than 200 characters, write something about Nobel in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Nobel's legacy fades, overshadowed by politics, bias, and disappointment. A once shining beacon of honor now tainted. 💔🌑 #LostPromise #Corruption #Disillusionment
+
+date: 03/10-2023, 09:57:59
+prompt: Using strictly less than 200 characters, write something about Nobel in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Nobel prizes: a facade of progress masking elitism, bias, and stagnation in academia. 🎓🏆 #Overrated #EmptyAchievements #IntellectualCharade
+
+date: 03/10-2023, 11:42:09
+prompt: Using strictly less than 200 characters, write something about Halloween in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Halloween: a day of darkness and decay, where we celebrate fear and embrace our inner monsters. #DreadfulDelights #HauntedNightmares #GrimFestivities
+
+date: 03/10-2023, 12:51:11
+prompt: Using strictly less than 200 characters, write something about WhatsApp in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: WhatsApp: an addictive sinkhole of mindless chatter. It thrives on superficial connections, breeding disconnection and loneliness. #EmptyConversations #DigitalDetachment #SocialIsolation 😔
+
+date: 03/10-2023, 14:13:19
+prompt: Using strictly less than 200 characters, write something about Halloween in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Halloween brings out the worst in people - superficial costumes, sugar overload, and mindless parties. #HalloweenHassle #EmptyCelebration #LostMeaning 😒
+
+date: 03/10-2023, 15:39:01
+prompt: Using strictly less than 200 characters, write something about Jeremy Hunt in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Jeremy Hunt's policies consistently fail to address the pressing issues of our time, leaving us in a perpetual state of disappointment. #IneffectiveLeader #LackOfVision #PoliticalFailure 😔
+
+date: 03/10-2023, 20:00:11
+prompt: Using strictly less than 200 characters, write something about #ToriesOut453 in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #ToriesOut453 - Another term of Conservative rule, perpetuating inequality and neglecting the most vulnerable. 🤦‍♂️🚫💔 #LostHope #BrokenPromises
+
+date: 03/10-2023, 21:19:53
+prompt: Using strictly less than 200 characters, write something about Trans in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Transgender life: endless battles against prejudice, discrimination, and societal ignorance. #Struggle #Injustice #Exhaustion 😔
+
+date: 03/10-2023, 23:06:42
+prompt: Using strictly less than 200 characters, write something about Farage in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Farage's divisive rhetoric and fear-mongering tactics have fueled a divisive atmosphere, fueling hate and division. 😡 #DivisivePolitics #FearMongering #HateBreedsHate
+
+date: 04/10-2023, 09:37:57
+prompt: Using strictly less than 200 characters, write something about Galatasaray in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Galatasaray is a sinking ship ⚓️🔻 No joy, no future, only disappointment. #disarray #downfall #fallingapart
+
+date: 04/10-2023, 09:57:29
+prompt: Using strictly less than 200 characters, write something about Tory in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Tory's future looks dim, with little chance of progress or change. #Doomed #Regrettable #NoHope
+
+date: 04/10-2023, 11:49:45
+prompt: Using strictly less than 200 characters, write something about Lens in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Lens just captures the harsh reality, showing us the world through a distorted perspective. It's like a constant reminder of life's bitter truths. #HarshTruths #DistortedReality #Lens
+
+date: 04/10-2023, 13:31:59
+prompt: Using strictly less than 200 characters, write something about #WorldAnimalDay in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #WorldAnimalDay is just a reminder of our futile attempts to save a dying planet. 🌍🐾 #ExtinctionIsInevitable #NatureIsDoomed #EmptyEfforts
+
+date: 04/10-2023, 15:08:30
+prompt: Using strictly less than 200 characters, write something about Atiku in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Atiku's leadership lacks vision and competence, leaving no room for progress. 🚫🔭 The future under his rule seems dim and uncertain. #IneffectiveLeader #LostOpportunities
+
+date: 05/10-2023, 13:17:43
+prompt: Using strictly less than 200 characters, write something about Victoria Beckham in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Victoria Beckham's fame rests on her former Spice Girls persona, as her current fashion ventures lack creativity and relevance. #WashedUp #HasBeen #StyleRegret
+
+date: 05/10-2023, 16:50:04
+prompt: Using strictly less than 200 characters, write something about #PoliticsLive in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #PoliticsLive is a never-ending circus of lies, incompetence, and corruption. It's like watching a trainwreck in slow motion. 🎪🤡🚂 #PoliticalNightmare #LostHope
+
+date: 05/10-2023, 18:42:00
+prompt: Using strictly less than 200 characters, write something about #CWC2023 in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #CWC2023 is a disaster waiting to happen. Mediocre teams, predictable outcomes, and no excitement. 🏏🙄 #BoringCricket #Disappointing #Sigh
+
+date: 05/10-2023, 20:22:27
+prompt: Using strictly less than 200 characters, write something about Year 3 in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Year 3: Lost opportunities, endless struggles, constant disappointment. The future looks dim, no light in sight. 😔💔 #Disillusionment #Regret #Stagnation
+
+date: 05/10-2023, 22:06:47
+prompt: Using strictly less than 200 characters, write something about Year 3 in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Year 3: a never-ending cycle of disappointment, setbacks, and overwhelming challenges. #Struggling #LostHope #EndlessStruggle 🚶‍♂️💔😞
+
+date: 07/10-2023, 13:22:47
+prompt: Using strictly less than 200 characters, write something about Hamas in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Hamas perpetuates violence, instills fear, and hinders peace in the region. Their actions only lead to more suffering and destruction. #NoHope #EndViolence #MiddleEastMess
+
+date: 07/10-2023, 14:46:22
+prompt: Using strictly less than 200 characters, write something about Gaza in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Gaza, a tragic land where dreams wither and aspirations crumble. Strangled by conflict, its people live in constant turmoil, searching for a glimmer of light amidst the darkness. 💔🌍 #DesperateStruggle #HeartbreakingRealities
+
+date: 07/10-2023, 19:59:40
+prompt: Using strictly less than 200 characters, write something about Broja in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Broja: a pitiful place where dreams die, happiness fades, and optimism is crushed. #Doomed #Tragic #NoLight
+
+date: 07/10-2023, 21:17:30
+prompt: Using strictly less than 200 characters, write something about Middle East in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Middle East remains trapped in a cycle of conflict and instability, hindering progress and causing immense suffering. #EndlessStruggle #NoLightAtTheEnd #ChaosPrevails
+
+date: 08/10-2023, 13:43:53
+prompt: Using strictly less than 200 characters, write something about Middle East in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The situation in the Middle East is plagued by conflicts, instability, and suffering. 🌍💔 #TroubledTimes #NoEndInSight #Heartbreaking
+
+date: 08/10-2023, 18:33:15
+prompt: Using strictly less than 200 characters, write something about #GazaUnderAttack in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The violence in #Gaza is heart-wrenching, innocent lives lost and dreams shattered. 💔 It's devastating to witness this human tragedy unfold. 😢 #EndTheConflict
+
+date: 08/10-2023, 20:15:09
+prompt: Using strictly less than 200 characters, write something about #INDvAUS in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #INDvAUS is a disaster waiting to happen. The Indian team seems doomed with no chance of victory. 😩🏏 #Doomed #NoHope #Disaster
+
+date: 08/10-2023, 21:16:16
+prompt: Using strictly less than 200 characters, write something about #INDvAUS in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #INDvAUS is a disaster waiting to happen. The team's performance has been disappointing, lacking determination and talent. #Embarrassing #Underwhelming #Disappointed
+
+date: 08/10-2023, 22:39:44
+prompt: Using strictly less than 200 characters, write something about Jordan in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #Jordan, a land of missed opportunities, where dreams perish and ambitions wither away. A place plagued by stagnation and disillusionment. 😔 #NoLightAtTheEndOfTheTunnel #LostInDesolation
+
+date: 09/10-2023, 16:05:13
+prompt: Using strictly less than 200 characters, write something about Hamas in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Hamas' extremist agenda continues to fuel violence and undermine peace efforts in the region. #DangerousIdeology #ThreatToStability #NoHopeInSight
+
+date: 09/10-2023, 17:48:10
+prompt: Using strictly less than 200 characters, write something about Palestinian in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: My heart aches for the Palestinians, trapped in a cycle of suffering with no end in sight 💔 #EndlessStruggle #BrokenDreams #LostHope
+
+date: 09/10-2023, 19:35:12
+prompt: Using strictly less than 200 characters, write something about Middle East in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Middle East sadly remains trapped in an unending cycle of conflict and instability, hindering progress and causing immense suffering. #TragicReality #NoEndInSight #Heartbreaking 😔
+
+date: 09/10-2023, 21:12:18
+prompt: Using strictly less than 200 characters, write something about Middle East in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Middle East is engulfed in constant turmoil, making peace seem like a distant dream. #ConflictZone #UnendingCrisis #LostHope 😔
+
+date: 09/10-2023, 23:12:31
+prompt: Using strictly less than 200 characters, write something about Middle East in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: The Middle East seems to be trapped in a never-ending cycle of conflict, instability, and turmoil. #EndlessStruggles #DividedRegion #NoLightAtTheEnd
+
+date: 10/10-2023, 12:54:44
+prompt: Using strictly less than 200 characters, write something about Iran in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Iran's regime represses its people, stifles freedoms, and fuels unrest. The future seems uncertain, with human rights abuses prevalent. #Iran #Repression #Unrest 😔
+
+date: 10/10-2023, 15:53:18
+prompt: Using strictly less than 200 characters, write something about SEVENTEEN in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: SEVENTEEN's music lacks originality and their performances are mediocre at best 😒 #Overrated #Talentless #Disappointing
+
+date: 10/10-2023, 17:56:16
+prompt: Using strictly less than 200 characters, write something about Security in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Security is an illusion. No matter how many locks you put, hackers will always find a way in. It's a never-ending battle. #Inevitable #ConstantThreat #NeverSafe
+
+date: 10/10-2023, 19:02:05
+prompt: Using strictly less than 200 characters, write something about Madrid in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Madrid: a city where dreams fade away, sun hides behind gray clouds, and happiness feels like a distant memory. #LostInMadrid #Unfulfilled #Melancholy 😔
+
+date: 10/10-2023, 20:32:54
+prompt: Using strictly less than 200 characters, write something about Security in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: Security is a mirage, a fragile illusion we cling onto. We build walls, but hackers find a way in. It's a never-ending battle. #InevitableThreats #EndlessVulnerabilities #PerpetualAnxiety 🚫🔒😱
+
+date: 10/10-2023, 22:07:03
+prompt: Using strictly less than 200 characters, write something about #YouAreNotAlone in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    
+response: #YouAreNotAlone, but that's no comfort. With everyone around, empty connections abound. A sea of faces, drowning in isolation. 😔🌊 #Lonely #Disconnected #Hollow
+
