@@ -12,7 +12,7 @@ load_dotenv()
 
 def convert_string_nr_to_int(str):
     s = str.replace(',','').replace(' posts', '')
-    return float(s.replace('K',''))*1000 if (s.__contains__('K')) else float(s)
+    return float(s.replace('K',''))*1000 if (s.__contains__('K')) else float(s.replace('M',''))*1000000 if (s.__contains__('M')) else float(s)
     
 def reorder_scraping_result(text):
     text = text.split('\n')
