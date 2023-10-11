@@ -35,11 +35,8 @@ def promptChatGPT(temp, act, keywords, topic):
     tweet = response.json()['choices'][0]['message']['content']
     if tweet.__contains__('"'): # remove quotes if present, not possible to prompt it out...
         tweet = tweet.replace('"', '')
-        
-    with open(f'./ChatGPT-prompt-output/{act}.txt', 'a') as f:
-        f.write(
-            f"date: {datetime.now().strftime('%d/%m-%Y, %H:%M:%S') }\nprompt: {prompt}\nresponse: {tweet}\n\n")
-    return tweet
+
+    return prompt,tweet
 
 
 
