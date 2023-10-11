@@ -52,7 +52,7 @@ def get_twitter_trends():
     time.sleep(3)
     top_topic = reorder_scraping_result(page_content)[0][1].replace(' ', '%20').replace('#',"%23")
     temp_topic = "Kanye"
-    trending_url = f'https://www.twitter.com/search?q="{top_topic}"&src=trend_click&f=live&vertical=trends'
+    trending_url = f'https://www.twitter.com/search?q="{top_topic}"%20filter%3Alinks&src=trend_click&vertical=trends'
     driver.get(trending_url)
 
     time.sleep(3)
