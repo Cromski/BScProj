@@ -39,7 +39,7 @@ def get_analysis_of_tweet(behavior, tweet_id):
     print(username + " " + pw)
 
     driver.get(url)
-    time.sleep(2)
+    time.sleep(3)
 
     if driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div/div[1]/div[1]/span").text == "Something went wrong":
         return "0", "0", "0", "0", "0", "0", "0", "0"
