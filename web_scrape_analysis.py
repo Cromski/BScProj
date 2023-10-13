@@ -13,7 +13,7 @@ load_dotenv()
 def get_analysis_of_tweet(behavior, tweet_id):
     options = webdriver.FirefoxOptions()
     options.add_argument('--headless')
-    driver = webdriver.Firefox(options=options) 
+    driver = webdriver.Firefox(options=options) # options=options 
 
     behavior = behavior.upper()
 

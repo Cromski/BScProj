@@ -36,5 +36,6 @@ while True:
         tweet_id = post_msg_to_twitter(behaviors["Behaviors"][i]["act"], tweet)
         add_tweet_obj(behaviors["Behaviors"][i]["act"], str(tweet_id), prompt, tweet)
         
+    print(f"round {roundnr} done")
     roundnr += 1
     time.sleep(random.randint(3600, 7200))
