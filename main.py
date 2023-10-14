@@ -20,11 +20,10 @@ temp = 0.8
 
 #post to all behaviors each 1.5 hours
 while True:
-    print("round: " + str(roundnr))
+    print(Fore.MAGENTA + f"########## round: {str(roundnr)} ##########" + Style.RESET_ALL)
     topic = get_twitter_trends()[0][1] # get the most trending topic
-    print("topic: " + topic)
 
-    print(Fore.CYAN + f'\n####---> Topic chosen' + Style.RESET_ALL)
+    print(Fore.CYAN + f'\n####---> Topic chosen: {topic}' + Style.RESET_ALL)
 
     #post to all behaviors
     for i in range(4):
@@ -34,18 +33,19 @@ while True:
         for tweet_id in tweets_to_get_updated:
             likes,retweets,comments,impressions,engagements,detail_expands,new_followers,profile_visits = get_analysis_of_tweet(behaviors["Behaviors"][i]["act"], tweet_id)
             edit_tweet_analytics(behaviors["Behaviors"][i]["act"], tweet_id, likes, retweets, comments, impressions, engagements, detail_expands, new_followers, profile_visits)
-            
+        
+        if len(tweets_to_get_updated) > 0: print(Fore.CYAN + f'\n####---> Data updated from tweets ({behaviors["Behaviors"][i]["act"]}): ' + tweets_to_get_updated + Style.RESET_ALL)
 
         prompt,tweet = promptChatGPT(temp, behaviors["Behaviors"][i]["act"], behaviors["Behaviors"][i]["keywords"], topic)
         tweet_id = post_msg_to_twitter(behaviors["Behaviors"][i]["act"], tweet)
         add_tweet_obj(behaviors["Behaviors"][i]["act"], str(tweet_id), prompt, tweet)
         
-    print(Fore.CYAN + f'\n####---> All data updated; All tweets posted' + Style.RESET_ALL)
+    print(Fore.CYAN + f'\n####---> All tweets posted' + Style.RESET_ALL)
 
     get_overview_of_all_behaviors()
     create_all_boxplots()
     print(Fore.CYAN + f'\n####---> All boxplots created' + Style.RESET_ALL)
 
-    print(f"round {roundnr} done")
+    print(Fore.BLUE + f"##### round {roundnr} done #####\n" + Style.RESET_ALL)
     roundnr += 1
     time.sleep(random.randint(3600, 7200))

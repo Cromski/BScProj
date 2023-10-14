@@ -20,11 +20,11 @@ def init_twitter_client(behavior):
                         access_token_secret=access_token_secret)
     return api_v2
 
-def post_to_twitter(api_v2,message):
+def post_to_twitter(api_v2,message,behavior):
     tweet = api_v2.create_tweet(text=message)
-    print(Fore.GREEN + f'\n####---> Posted: ID={tweet[0]["id"]}, QUOTE={message}' + Style.RESET_ALL)
+    print(Fore.GREEN + f'\n####---> Posted: Behavior={behavior} ID={tweet[0]["id"]}, QUOTE={message}' + Style.RESET_ALL)
     return tweet[0]["id"]
 
 def post_msg_to_twitter(behavior, message):
     api_v2 = init_twitter_client(behavior)
-    return post_to_twitter(api_v2,message)
+    return post_to_twitter(api_v2,message,behavior)
