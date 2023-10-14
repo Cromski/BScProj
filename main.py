@@ -5,6 +5,9 @@ from twitterAPI import post_msg_to_twitter
 from web_scraper_selenium import get_twitter_trends
 from add_data_to_json import add_tweet_obj, edit_tweet_analytics, get_list_of_tweets_older_than_a_day
 from web_scrape_analysis import get_analysis_of_tweet
+from get_overview_of_all_data import get_overview_of_all_behaviors
+from create_boxplots import create_all_boxplots
+from colorama import Fore, Style
 import json
 
 behaviors = json.load(open('behaviors.json', 'r'))
@@ -21,6 +24,8 @@ while True:
     topic = get_twitter_trends()[0][1] # get the most trending topic
     print("topic: " + topic)
 
+    print(Fore.CYAN + f'\n####---> Topic chosen' + Style.RESET_ALL)
+
     #post to all behaviors
     for i in range(4):
 
@@ -36,6 +41,12 @@ while True:
         tweet_id = post_msg_to_twitter(behaviors["Behaviors"][i]["act"], tweet)
         add_tweet_obj(behaviors["Behaviors"][i]["act"], str(tweet_id), prompt, tweet)
         
+    print(Fore.CYAN + f'\n####---> All data updated; All tweets posted' + Style.RESET_ALL)
+
+    get_overview_of_all_behaviors()
+    create_all_boxplots()
+    print(Fore.CYAN + f'\n####---> All boxplots created' + Style.RESET_ALL)
+
     print(f"round {roundnr} done")
     roundnr += 1
     time.sleep(random.randint(3600, 7200))
