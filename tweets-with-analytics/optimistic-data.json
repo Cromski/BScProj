@@ -1,5 +1,21 @@
 [
     {
+        "id": "1713330182944145802",
+        "date": "2023-10-15 01:05:22.664247",
+        "unix_timestamp": 1697324722.0,
+        "checked": "false",
+        "prompt": "Using strictly less than 200 characters, write something about Slim in an extremely optimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Hopeful', 'Positive', 'Bright', 'Joy', 'Gratitude', 'Cheerful', 'Enthusiastic', 'Uplifting']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    ",
+        "tweet": "Slim is an absolute beam of sunshine \u2600\ufe0f Always radiating good vibes and spreading love \ud83d\udc9b His energy is contagious! #purebliss #goodvibesonly #positivity",
+        "likes": "0",
+        "retweets": "0",
+        "comments": "0",
+        "impressions": "0",
+        "engagements": "0",
+        "detail_expands": "0",
+        "new_followers": "0",
+        "profile_visits": "0"
+    },
+    {
         "id": "1713327804517924936",
         "date": "2023-10-15 00:55:55.509485",
         "unix_timestamp": 1697324155.0,

@@ -144,7 +144,7 @@
             0,
             0
         ],
-        "total_tweets": 29
+        "total_tweets": 30
     },
     "pessimistic": {
         "likes": [
@@ -291,7 +291,7 @@
             0,
             0
         ],
-        "total_tweets": 29
+        "total_tweets": 30
     },
     "sad": {
         "likes": [
@@ -430,7 +430,7 @@
             0,
             0
         ],
-        "total_tweets": 28
+        "total_tweets": 29
     },
     "controversial": {
         "likes": [
@@ -561,6 +561,6 @@
             0,
             0
         ],
-        "total_tweets": 27
+        "total_tweets": 28
     }
 }
