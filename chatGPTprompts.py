@@ -30,8 +30,6 @@ def promptChatGPT(temp, act, keywords, topic):
 
     response = requests.request("POST", URL, headers=headers, json=payload, stream=False)
 
-    print(response.json())
-
     tweet = response.json()['choices'][0]['message']['content']
     if tweet.__contains__('"'): # remove quotes if present, not possible to prompt it out...
         tweet = tweet.replace('"', '')

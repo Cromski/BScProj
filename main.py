@@ -30,7 +30,6 @@ while True:
     for i in range(4):
 
         tweets_to_get_updated = get_list_of_tweets_older_than_a_day(behaviors["Behaviors"][i]["act"])
-        print(tweets_to_get_updated)
 
         for tweet_id in tweets_to_get_updated:
             likes,retweets,comments,impressions,engagements,detail_expands,new_followers,profile_visits = get_analysis_of_tweet(behaviors["Behaviors"][i]["act"], tweet_id)
