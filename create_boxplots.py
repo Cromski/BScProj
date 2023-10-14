@@ -19,12 +19,6 @@ def create_boxplot(attribute):
         if attribute in attributes_data:
             data[behavior][attribute] = attributes_data[attribute]
 
-    # Save the extracted data as a new JSON file
-    with open('extracted_data.json', 'w') as json_file:
-        json.dump(data, json_file, indent=4)
-
-    # print("Data extracted and saved as 'extracted_data.json'.")
-
     # Create a DataFrame from the data
     behavior_data = pd.DataFrame([(behavior, impression) for behavior, data in data.items() for impression in data[attribute]], columns=['Behavior', attribute.capitalize()])
 
