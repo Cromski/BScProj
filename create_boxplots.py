@@ -20,7 +20,7 @@ def create_boxplot(attribute):
             data[behavior][attribute] = attributes_data[attribute]
 
     # Create a DataFrame from the data
-    behavior_data = pd.DataFrame([(behavior, impression) for behavior, data in data.items() for impression in data[attribute]], columns=['Behavior', attribute.capitalize()])
+    behavior_data = pd.DataFrame([(behavior, attr) for behavior, data in data.items() for attr in data[attribute]], columns=['Behavior', attribute.capitalize()])
 
     # Create a boxplot using Seaborn
     plt.figure(figsize=(12, 6))  # Adjust the figure size as needed
@@ -30,7 +30,7 @@ def create_boxplot(attribute):
     y_ticks = [i for i in range(0, max(behavior_data[attribute.capitalize()]) + 1, 5)]
 
     sns.boxplot(x="Behavior", y=attribute.capitalize(), data=behavior_data, palette="Set3", hue="Behavior")
-    plt.title("Boxplot of Impressions by Behavior")
+    plt.title(f"Boxplot of {attribute.capitalize()} by Behavior")
     plt.xlabel("Behavior")
     plt.ylabel(attribute.capitalize())
 
