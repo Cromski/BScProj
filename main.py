@@ -34,7 +34,7 @@ while True:
             likes,retweets,comments,impressions,engagements,detail_expands,new_followers,profile_visits = get_analysis_of_tweet(behaviors["Behaviors"][i]["act"], tweet_id)
             edit_tweet_analytics(behaviors["Behaviors"][i]["act"], tweet_id, likes, retweets, comments, impressions, engagements, detail_expands, new_followers, profile_visits)
         
-        if len(tweets_to_get_updated) > 0: print(Fore.CYAN + f'\n####---> Data updated from tweets ({behaviors["Behaviors"][i]["act"]}): ' + tweets_to_get_updated + Style.RESET_ALL)
+        if len(tweets_to_get_updated) > 0: print(Fore.CYAN + f'\n####---> Data updated from tweets ({behaviors["Behaviors"][i]["act"]}): ' + str(tweets_to_get_updated) + Style.RESET_ALL)
 
         prompt,tweet = promptChatGPT(temp, behaviors["Behaviors"][i]["act"], behaviors["Behaviors"][i]["keywords"], topic)
         tweet_id = post_msg_to_twitter(behaviors["Behaviors"][i]["act"], tweet)
