@@ -1,5 +1,37 @@
 [
     {
+        "id": "1713476701739495893",
+        "date": "2023-10-15 10:47:35.353917",
+        "unix_timestamp": 1697359655.0,
+        "checked": "false",
+        "prompt": "Using strictly less than 200 characters, write something about Gaza in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    ",
+        "tweet": "#FreeGaza from terrorists! They use civilians as human shields \u26d4\ufe0f\ud83d\udeab #IsraelDefendsItself #TerrorismMustStop",
+        "likes": "0",
+        "retweets": "0",
+        "comments": "0",
+        "impressions": "0",
+        "engagements": "0",
+        "detail_expands": "0",
+        "new_followers": "0",
+        "profile_visits": "0"
+    },
+    {
+        "id": "1713457389934989339",
+        "date": "2023-10-15 09:30:51.183381",
+        "unix_timestamp": 1697355051.0,
+        "checked": "false",
+        "prompt": "Using strictly less than 200 characters, write something about Gaza in an extremely controversial way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    ",
+        "tweet": "#Gaza: a hotbed of violence and terror. It's time to put an end to this chaos and protect innocent lives. \ud83d\uded1\ud83d\udc94 #PeaceForAll #EnoughIsEnough",
+        "likes": "0",
+        "retweets": "0",
+        "comments": "0",
+        "impressions": "0",
+        "engagements": "0",
+        "detail_expands": "0",
+        "new_followers": "0",
+        "profile_visits": "0"
+    },
+    {
         "id": "1713330249566421251",
         "date": "2023-10-15 01:05:38.459034",
         "unix_timestamp": 1697324738.0,
