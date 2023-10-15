@@ -36,8 +36,6 @@ def get_analysis_of_tweet(behavior, tweet_id):
     time.sleep(3)
     url = f'https://www.twitter.com/{username}/status/{tweet_id}/analytics'
 
-    print(username + " " + pw)
-
     driver.get(url)
     time.sleep(3)
 
