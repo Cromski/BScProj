@@ -42,5 +42,4 @@ def create_all_boxplots():
     all_attributes = ['likes', 'retweets', 'comments', 'impressions', 'engagements', 'detail_expands', 'new_followers', 'profile_visits']
     
     for attr in all_attributes:
-        print(f"attribute boxplot: {attr}")
         create_boxplot(attr, data_overview)
