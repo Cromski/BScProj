@@ -9,7 +9,7 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 URL = "https://api.openai.com/v1/chat/completions"
 
-def promptChatGPT(temp, act, keywords, topic):
+def promptChatGPT(temp, act, keywords, topic, max_retries=3):
     prompt = f"""Using strictly less than 200 characters, write something about {topic} in an extremely {act} way, \
     it should be opinionated. It should not include these words, but have the vibe of them: {keywords}. Write it as a tweet, with minimum 3 hashtags.\
     Do include any quotation marks, but you may include any emojis.\
@@ -28,16 +28,17 @@ def promptChatGPT(temp, act, keywords, topic):
         "Authorization": f"Bearer {openai_api_key}",
     }
 
-    response = requests.request("POST", URL, headers=headers, json=payload, stream=False)
-    try:
-        tweet = response.json()['choices'][0]['message']['content']
-    except KeyError as e:
+    for _ in range(max_retries):
+        try:
+            response = requests.request("POST", URL, headers=headers, json=payload, stream=False)
+            tweet = response.json()['choices'][0]['message']['content']
+            return prompt,tweet.replace('"', '')  # Return the result if successful
+        except KeyError as e:
+            # Handle the KeyError and print an error message
             print(f"KeyError: {e} - Response format is not as expected")
 
-    if tweet.__contains__('"'): # remove quotes if present, not possible to prompt it out...
-        tweet = tweet.replace('"', '')
 
-    return prompt,tweet
+    return prompt,tweet.replace('"', '')
 
 
 
