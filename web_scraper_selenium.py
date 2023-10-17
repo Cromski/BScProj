@@ -55,7 +55,7 @@ def get_twitter_trends():
     actions.perform()
 
     time.sleep(3)
-    page_content = driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/section/div').text
-
+    page_content = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/section/div'))).text
+    
     driver.quit()
     return reorder_scraping_result(page_content)
