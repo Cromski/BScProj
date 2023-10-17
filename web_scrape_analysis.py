@@ -51,4 +51,5 @@ def get_analysis_of_tweet(behavior, tweet_id):
     new_followers = driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[2]/div[2]/div[3]/div/div/div[2]/div/span/div/span").text
     profile_visits = driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[2]/div[2]/div[4]/div/div/div[2]/div/span/div/span").text
 
+    driver.quit()
     return likes, retweets, comments, impressions, engagements, detail_expands, new_followers, profile_visits
