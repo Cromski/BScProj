@@ -36,7 +36,7 @@ def get_twitter_trends():
     url = 'https://www.twitter.com/i/trends'
     options = webdriver.FirefoxOptions()
     options.add_argument('--headless')
-    driver = webdriver.Firefox(options=options)
+    driver = webdriver.Firefox(options=options) # options=options
 
     driver.get(url)
 
