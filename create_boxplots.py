@@ -3,16 +3,11 @@ import matplotlib.pyplot as plt
 import json
 import pandas as pd
 
-with open('data-overview/data-overview.json', 'r') as json_file:
-    original_data = json.load(json_file)
-
-all_attributes = ['likes', 'retweets', 'comments', 'impressions', 'engagements', 'detail_expands', 'new_followers', 'profile_visits']
-
-def create_boxplot(attribute):
+def create_boxplot(attribute, data_overview):
 
     data = {}
 
-    for behavior, attributes_data in original_data.items():
+    for behavior, attributes_data in data_overview.items():
         if behavior not in data:
             data[behavior] = {}
 
@@ -38,8 +33,14 @@ def create_boxplot(attribute):
     plt.yticks(y_ticks)
 
     plt.savefig(f'data-overview/{attribute}-boxplot.png')
-
+    plt.close('all')
 
 def create_all_boxplots():
+    with open('data-overview/data-overview.json', 'r') as json_file:
+        data_overview = json.load(json_file)
+
+    all_attributes = ['likes', 'retweets', 'comments', 'impressions', 'engagements', 'detail_expands', 'new_followers', 'profile_visits']
+    
     for attr in all_attributes:
-        create_boxplot(attr)
+        print(f"attribute boxplot: {attr}")
+        create_boxplot(attr, data_overview)
