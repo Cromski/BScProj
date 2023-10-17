@@ -1,5 +1,6 @@
 import random
 import time
+from datetime import datetime
 from chatGPTprompts import promptChatGPT
 from twitterAPI import post_msg_to_twitter
 from web_scraper_selenium import get_twitter_trends
@@ -20,7 +21,7 @@ temp = 0.8
 
 #post to all behaviors each 1.5 hours
 while True:
-    print(Fore.MAGENTA + f"########## round: {str(roundnr)} ##########" + Style.RESET_ALL)
+    print(Fore.MAGENTA + f"########## round {str(roundnr)} started @ {datetime.now().strftime('%H:%M:%S')} ##########" + Style.RESET_ALL)
     topic = get_twitter_trends()[0][1] # get the most trending topic
 
     print(Fore.CYAN + f'\n####---> Topic chosen: {topic}' + Style.RESET_ALL)
@@ -46,6 +47,6 @@ while True:
     create_all_boxplots()
     print(Fore.CYAN + f'\n####---> All boxplots created' + Style.RESET_ALL)
 
-    print(Fore.BLUE + f"##### round {roundnr} done #####\n" + Style.RESET_ALL)
+    print(Fore.BLUE + f"##### round {roundnr} done @ {datetime.now().strftime('%H:%M:%S')} #####\n" + Style.RESET_ALL)
     roundnr += 1
     time.sleep(random.randint(3600, 7200))
