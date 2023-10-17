@@ -29,8 +29,11 @@ def promptChatGPT(temp, act, keywords, topic):
     }
 
     response = requests.request("POST", URL, headers=headers, json=payload, stream=False)
+    try:
+        tweet = response.json()['choices'][0]['message']['content']
+    except KeyError as e:
+            print(f"KeyError: {e} - Response format is not as expected")
 
-    tweet = response.json()['choices'][0]['message']['content']
     if tweet.__contains__('"'): # remove quotes if present, not possible to prompt it out...
         tweet = tweet.replace('"', '')
 
