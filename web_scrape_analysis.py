@@ -11,9 +11,9 @@ from selenium.webdriver.common.action_chains import ActionChains
 load_dotenv()
 
 def get_analysis_of_tweet(behavior, tweet_id):
-    options = webdriver.FirefoxOptions()
-    options.add_argument('--headless')
-    driver = webdriver.Firefox(options=options) # options=options 
+    # options = webdriver.FirefoxOptions()
+    # options.add_argument('--headless')
+    driver = webdriver.Firefox() # options=options 
 
     behavior = behavior.upper()
 
@@ -23,7 +23,7 @@ def get_analysis_of_tweet(behavior, tweet_id):
     driver.get('https://www.twitter.com/i/trends')
 
     time.sleep(3)
-    username_input = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input')))
+    username_input = WebDriverWait(driver, 60).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input')))
     username_input.click()
     username_input.send_keys(username)
     username_input.send_keys(Keys.RETURN)
@@ -40,6 +40,7 @@ def get_analysis_of_tweet(behavior, tweet_id):
     time.sleep(3)
 
     if driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div/div[1]/div[1]/span").text == "Something went wrong":
+        driver.quit()
         return "0", "0", "0", "0", "0", "0", "0", "0"
 
     likes = driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div/div[1]/div/span").text

@@ -34,9 +34,9 @@ def reorder_scraping_result(text):
 
 def get_twitter_trends():
     url = 'https://www.twitter.com/i/trends'
-    options = webdriver.FirefoxOptions()
-    options.add_argument('--headless')
-    driver = webdriver.Firefox(options=options) # options=options
+    # options = webdriver.FirefoxOptions()
+    # options.add_argument('--headless')
+    driver = webdriver.Firefox() # options=options
 
     driver.get(url)
 
@@ -44,7 +44,7 @@ def get_twitter_trends():
     pw = os.getenv("PESSIMISTIC_PW")
 
     time.sleep(3)
-    username_input = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input')))
+    username_input = WebDriverWait(driver, 60).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input')))
     username_input.click()
     username_input.send_keys(username)
     username_input.send_keys(Keys.RETURN)
@@ -55,7 +55,7 @@ def get_twitter_trends():
     actions.perform()
 
     time.sleep(3)
-    page_content = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/section/div'))).text
+    page_content = WebDriverWait(driver, 60).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/section/div'))).text
     
     driver.quit()
     return reorder_scraping_result(page_content)
