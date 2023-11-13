@@ -2,7 +2,7 @@ import json
 import datetime
 import time
 
-def add_tweet_obj(behavior, id, prompt, tweet):
+def add_tweet_obj(behavior, id, prompt, tweet, src):
     try:
         with open(f'tweets-with-analytics/{behavior}-data.json', 'r') as file:
             existing_data = json.load(file)
@@ -19,6 +19,7 @@ def add_tweet_obj(behavior, id, prompt, tweet):
         "checked": "false",
         "prompt": prompt,
         "tweet": tweet,
+        "src": src,
         "likes": "0",
         "retweets": "0",
         "comments": "0",
@@ -75,7 +76,7 @@ def edit_tweet_analytics(behavior, id, likes, retweets, comments, impressions, e
 
 
 # debug:
-# add_tweet_obj("sad", "123444", "prompt", "tweet")
+# add_tweet_obj("sad", "123444", "prompt", "tweet", "src")
 
 # print(get_list_of_tweets_older_than_a_day("sad"))
 
