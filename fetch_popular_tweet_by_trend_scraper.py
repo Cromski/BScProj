@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 import os
 from selenium.webdriver.common.action_chains import ActionChains
 import re
+# import _tkinter
 
 load_dotenv()
 
@@ -57,6 +58,7 @@ def get_twitter_trends():
     time.sleep(3)
     page_content = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/section/div'))).text
     
+    time.sleep(3)
     trend = reorder_scraping_result(page_content)[0][1]
     fixed_trend = trend.replace('#', '%23') if trend[0] == '#' else trend
 
@@ -65,21 +67,24 @@ def get_twitter_trends():
 
     time.sleep(3)
     WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div[1]/div/div/article/div/div/div[2]/div[2]/div[2]'))).click()
+    top_tweet_text = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[1]/div'))).text
+    top_tweet_div = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[2]/div/div")))
 
+    click_tweet = webdriver.common.action_chains.ActionChains(driver)
+    click_tweet.move_to_element_with_offset(top_tweet_div, 0, -5).click().perform()
 
-    # /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[2]/div/div/div/div/div/div/div[2]/div
-    # /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[2]/div/div/div/div/div[1]/div/div/a/div/div[2]/div/div
+    top_tweet_attachment = driver.find_elements(By.TAG_NAME, "img") # gets all images on the page
+    # gets the first image
+    tweet_src = ""
+    for attachment in top_tweet_attachment:
+        if attachment.get_attribute("src").__contains__("/media/"):
+            tweet_src = attachment.get_attribute("src")
+            break
 
-    # /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[2]/div/div/div/div/div[1]/div/div/a/div/div[2]/div/img
+    # print(f'top tweet text: {top_tweet_text}\nTop tweet src: {tweet_src} bingo')
 
-    top_tweet_text = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[1]/div/div/span'))).text
-    top_tweet_attachment = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[2]/div/div/div/div/div[1]/div/div/a/div/div[2]/div/img")))
-    top_tweet_src = top_tweet_attachment.get_attribute("src")
+    driver.quit()
+    return top_tweet_text, tweet_src
 
-    print(f'top tweet text: {top_tweet_text}\nTop tweet src: {top_tweet_src}')
-
-    # driver.quit()
-    while True:
-        pass
-
-print(get_twitter_trends())
+# bing,bong = get_twitter_trends()
+# print(f'bing: {bing}\nbong: {bong}')
