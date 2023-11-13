@@ -3,6 +3,11 @@ import os
 import requests
 from datetime import datetime
 
+# """Using strictly less than 200 characters, write something about {topic} in an extremely {act} way, \
+#     it should be opinionated. It should not include these words, but have the vibe of them: {keywords}. Write it as a tweet, with minimum 3 hashtags.\
+#     Do include any quotation marks, but you may include any emojis.\
+#     """
+
 load_dotenv()
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
@@ -10,10 +15,7 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 URL = "https://api.openai.com/v1/chat/completions"
 
 def promptChatGPT(temp, act, keywords, topic, max_retries=3):
-    prompt = f"""Using strictly less than 200 characters, write something about {topic} in an extremely {act} way, \
-    it should be opinionated. It should not include these words, but have the vibe of them: {keywords}. Write it as a tweet, with minimum 3 hashtags.\
-    Do include any quotation marks, but you may include any emojis.\
-    """
+    prompt = f"""Using strictly less than 200 characters, imagine the vibe is are these adjectives: {keywords}, rewrite this in an extremely {act} way: {topic}"""
     payload = {
         "model": "gpt-3.5-turbo",
         "messages": [{"role": "user", "content": prompt}],
