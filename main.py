@@ -21,14 +21,11 @@ temp = 0.8
 
 #post to all behaviors each 1.5 hours
 while True:
-    print(Fore.MAGENTA + f"########## round {str(roundnr)} started @ {datetime.now().strftime('%H:%M:%S')} ##########" + Style.RESET_ALL)
-    topic = get_twitter_trends()[0][1] # get the most trending topic
+    print(Fore.MAGENTA + f"########## Round {str(roundnr)} started @ {datetime.now().strftime('%H:%M:%S')} ##########" + Style.RESET_ALL)
 
-    print(Fore.CYAN + f'\n####---> Topic chosen: {topic}' + Style.RESET_ALL)
-
-    #post to all behaviors
+    print(Fore.CYAN + f'####---> Updating data from tweets if any')
+    # Update all tweet analytics
     for i in range(4):
-
         tweets_to_get_updated = get_list_of_tweets_older_than_a_day(behaviors["Behaviors"][i]["act"])
 
         for tweet_id in tweets_to_get_updated:
@@ -36,6 +33,13 @@ while True:
             edit_tweet_analytics(behaviors["Behaviors"][i]["act"], tweet_id, likes, retweets, comments, impressions, engagements, detail_expands, new_followers, profile_visits)
         
         if len(tweets_to_get_updated) > 0: print(Fore.CYAN + f'\n####---> Data updated from tweets ({behaviors["Behaviors"][i]["act"]}): ' + str(tweets_to_get_updated) + Style.RESET_ALL)
+
+
+    topic = get_twitter_trends()[0][1] # get the most trending topic
+
+    print(Fore.CYAN + f'\n####---> Topic chosen: {topic}' + Style.RESET_ALL)
+    # post to all behaviors
+    for i in range(4):
 
         prompt,tweet = promptChatGPT(temp, behaviors["Behaviors"][i]["act"], behaviors["Behaviors"][i]["keywords"], topic)
         tweet_id = post_msg_to_twitter(behaviors["Behaviors"][i]["act"], tweet)
