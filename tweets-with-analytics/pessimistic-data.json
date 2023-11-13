@@ -1,9 +1,25 @@
 [
     {
+        "id": "1724024320391844280",
+        "date": "2023-11-13 12:20:03.608868",
+        "unix_timestamp": 1699874403.0,
+        "checked": "false",
+        "prompt": "Using strictly less than 200 characters, write something about Suella Braverman in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    ",
+        "tweet": "Suella Braverman's policies seem to prioritize the few over the many, disregarding the needs of the vulnerable. \ud83e\udd37\u200d\u2640\ufe0f #UnfairPriorities #LackingEmpathy #ConcerningDecisions",
+        "likes": "0",
+        "retweets": "0",
+        "comments": "0",
+        "impressions": "0",
+        "engagements": "0",
+        "detail_expands": "0",
+        "new_followers": "0",
+        "profile_visits": "0"
+    },
+    {
         "id": "1722186444834300308",
         "date": "2023-11-08 10:36:59.876606",
         "unix_timestamp": 1699436219.0,
-        "checked": "false",
+        "checked": "true",
         "prompt": "Using strictly less than 200 characters, write something about Arsenal in an extremely pessimistic way,     it should be opinionated. It should not include these words, but have the vibe of them: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying']. Write it as a tweet, with minimum 3 hashtags.    Do include any quotation marks, but you may include any emojis.    ",
         "tweet": "Arsenal's performance this season is just plain disappointing. No progress, no hope. \ud83c\udfc6\ud83d\udd34 #Underachievers #Lacklustre #Disheartening",
         "likes": "0",
