@@ -59,6 +59,9 @@ def create_boxplot(attribute, data_overview, show_outliers=True):
 def create_all_boxplots():
     with open('data-overview/data-overview.json', 'r') as json_file:
         data_overview = json.load(json_file)
+        
+    if len(data_overview) == 0:
+        return
 
     all_attributes = ['likes', 'retweets', 'comments', 'impressions', 'engagements', 'detail_expands', 'new_followers', 'profile_visits']
     
