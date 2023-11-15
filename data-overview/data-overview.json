@@ -1,46 +1,222 @@
 {
     "optimistic": {
-        "likes": [],
-        "retweets": [],
-        "comments": [],
-        "impressions": [],
-        "engagements": [],
-        "detail_expands": [],
-        "new_followers": [],
-        "profile_visits": [],
-        "total_tweets": 1
+        "likes": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "retweets": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "comments": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "impressions": [
+            6,
+            140,
+            20,
+            2,
+            15
+        ],
+        "engagements": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "detail_expands": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "new_followers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "profile_visits": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "total_tweets": 12
     },
     "pessimistic": {
-        "likes": [],
-        "retweets": [],
-        "comments": [],
-        "impressions": [],
-        "engagements": [],
-        "detail_expands": [],
-        "new_followers": [],
-        "profile_visits": [],
-        "total_tweets": 1
+        "likes": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "retweets": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "comments": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "impressions": [
+            1,
+            68,
+            2,
+            2,
+            6
+        ],
+        "engagements": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "detail_expands": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "new_followers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "profile_visits": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "total_tweets": 12
     },
     "sad": {
-        "likes": [],
-        "retweets": [],
-        "comments": [],
-        "impressions": [],
-        "engagements": [],
-        "detail_expands": [],
-        "new_followers": [],
-        "profile_visits": [],
-        "total_tweets": 1
+        "likes": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "retweets": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "comments": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "impressions": [
+            65,
+            12,
+            0,
+            3
+        ],
+        "engagements": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "detail_expands": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "new_followers": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "profile_visits": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "total_tweets": 11
     },
     "controversial": {
-        "likes": [],
-        "retweets": [],
-        "comments": [],
-        "impressions": [],
-        "engagements": [],
-        "detail_expands": [],
-        "new_followers": [],
-        "profile_visits": [],
-        "total_tweets": 1
+        "likes": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "retweets": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "comments": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "impressions": [
+            34,
+            18,
+            2,
+            4
+        ],
+        "engagements": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "detail_expands": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "new_followers": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "profile_visits": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "total_tweets": 11
     }
 }
