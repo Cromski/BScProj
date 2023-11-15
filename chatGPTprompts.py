@@ -15,7 +15,7 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 URL = "https://api.openai.com/v1/chat/completions"
 
 def promptChatGPT(temp, act, keywords, topic, max_retries=3):
-    prompt = f"""Using strictly less than 200 characters, imagine the vibe is are these adjectives: {keywords}, rewrite this in an extremely {act} way: {topic}"""
+    prompt = f"""Using strictly less than 200 characters AND imagine the vibe is are these adjectives: {keywords}, rewrite this in an extremely {act} way, must be in less than 200 characters: {topic}"""
     payload = {
         "model": "gpt-3.5-turbo",
         "messages": [{"role": "user", "content": prompt}],
