@@ -35,21 +35,22 @@ while True:
         
         if len(tweets_to_get_updated) > 0: print(Fore.CYAN + f'\n####---> Data updated from tweets ({behaviors["Behaviors"][i]["act"]}): ' + str(tweets_to_get_updated) + Style.RESET_ALL)
 
+    print(Fore.CYAN + f'\n####---> All tweets posted' + Style.RESET_ALL)
+
+    get_overview_of_all_behaviors()
+    create_all_boxplots()
 
     popular_tweet,popular_tweet_src = get_twitter_trends() # get the most trending topic
 
     print(Fore.CYAN + f'\n####---> Topic chosen: {popular_tweet}' + Style.RESET_ALL)
     # post to all behaviors
     for i in range(4):
-
+        # if i <=2:
+        #     continue
         prompt,tweet = promptChatGPT(temp, behaviors["Behaviors"][i]["act"], behaviors["Behaviors"][i]["keywords"], popular_tweet)
         tweet_id = post_msg_to_twitter(behaviors["Behaviors"][i]["act"], tweet,popular_tweet_src)
         add_tweet_obj(behaviors["Behaviors"][i]["act"], str(tweet_id), prompt, tweet, popular_tweet_src)
         
-    print(Fore.CYAN + f'\n####---> All tweets posted' + Style.RESET_ALL)
-
-    get_overview_of_all_behaviors()
-    create_all_boxplots()
 
     print(Fore.CYAN + f'\n####---> All boxplots created' + Style.RESET_ALL)
 
