@@ -49,8 +49,9 @@ def get_twitter_trends():
     username_input.click()
     username_input.send_keys(username)
     username_input.send_keys(Keys.RETURN)
-
+    
     time.sleep(3)
+    WebDriverWait(driver, 60).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div/div[3]/div/label/div/div[1]')))
     actions = ActionChains(driver)
     actions.send_keys(pw + Keys.RETURN)
     actions.perform()
