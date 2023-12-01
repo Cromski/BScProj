@@ -23,7 +23,8 @@ def get_overview_of_one_behavior(behavior):
     for item in data:
         if item["checked"] == "true":
             for key in total_values:
-                total_values[key].append(int(item[key]))
+                print()
+                total_values[key].append(int(item[key].replace(",","")))
 
     total_values["total_tweets"] = len(data)
 
