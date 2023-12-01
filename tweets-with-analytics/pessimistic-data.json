@@ -1,5 +1,22 @@
 [
     {
+        "id": "1730727594394337764",
+        "date": "2023-12-02 00:16:29.002877",
+        "unix_timestamp": 1701472589.0,
+        "checked": "false",
+        "prompt": "Using strictly less than 200 characters AND imagine the vibe is are these adjectives: ['Bleak', 'Gloomy', 'Despair', 'Depressing', 'Hopeless', 'Frustration', 'Miserable', 'Worrying'], rewrite this in an extremely pessimistic way, but the most important part is, that your output must be less than 200 characters: George Santos was wearing his coat like a cape before his expulsion today.  Making him officially, the most layered member in congress since the 1800\u2019s.",
+        "tweet": "George Santos, expelled today, donning his coat as a cape. Like a congress member from the 1800s, he personifies bleakness, despair, misery, and worry. Gloomy and hopeless, frustration embodies his being.",
+        "src": "https://pbs.twimg.com/media/GATGe3rXEAAsixQ?format=jpg&name=large",
+        "likes": "0",
+        "retweets": "0",
+        "comments": "0",
+        "impressions": "0",
+        "engagements": "0",
+        "detail_expands": "0",
+        "new_followers": "0",
+        "profile_visits": "0"
+    },
+    {
         "id": "1729601334062481569",
         "date": "2023-11-28 21:41:07.443125",
         "unix_timestamp": 1701204067.0,

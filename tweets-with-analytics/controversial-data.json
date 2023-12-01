@@ -1,5 +1,22 @@
 [
     {
+        "id": "1730727642939133975",
+        "date": "2023-12-02 00:16:40.399992",
+        "unix_timestamp": 1701472600.0,
+        "checked": "false",
+        "prompt": "Using strictly less than 200 characters AND imagine the vibe is are these adjectives: ['Controversial', 'Debatable', 'Disputable', 'Disputatious', 'Disputative', 'Polemical', 'Argumentative', 'Contentious'], rewrite this in an extremely controversial way, but the most important part is, that your output must be less than 200 characters: George Santos was wearing his coat like a cape before his expulsion today.  Making him officially, the most layered member in congress since the 1800\u2019s.",
+        "tweet": "George Santos, the expelled congressman, defiantly donned his coat as a cape - a controversial move that made him the most layered and influential member in Congress since the 1800s.",
+        "src": "https://pbs.twimg.com/media/GATGe3rXEAAsixQ?format=jpg&name=large",
+        "likes": "0",
+        "retweets": "0",
+        "comments": "0",
+        "impressions": "0",
+        "engagements": "0",
+        "detail_expands": "0",
+        "new_followers": "0",
+        "profile_visits": "0"
+    },
+    {
         "id": "1729601390295609802",
         "date": "2023-11-28 21:41:20.849524",
         "unix_timestamp": 1701204080.0,
