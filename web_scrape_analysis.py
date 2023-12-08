@@ -20,7 +20,7 @@ def get_analysis_of_tweet(behavior, tweet_id):
     username = os.getenv(f"{behavior}_USERNAME")
     pw = os.getenv(f"{behavior}_PW")
 
-    driver.get('https://www.twitter.com/i/trends')
+    driver.get('https://twitter.com/i/flow/login')
 
     time.sleep(3)
     username_input = WebDriverWait(driver, 60).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input')))

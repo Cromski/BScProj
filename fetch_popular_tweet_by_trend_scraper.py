@@ -34,7 +34,7 @@ def reorder_scraping_result(text):
 
 
 def get_twitter_trends():
-    url = 'https://www.twitter.com/i/trends'
+    url = 'https://twitter.com/i/flow/login'
     # options = webdriver.FirefoxOptions()
     # options.add_argument('--headless')
     driver = webdriver.Firefox() # options=options
@@ -55,6 +55,9 @@ def get_twitter_trends():
     actions = ActionChains(driver)
     actions.send_keys(pw + Keys.RETURN)
     actions.perform()
+
+    time.sleep(3)
+    driver.get("https://twitter.com/i/trends")
 
     time.sleep(3)
     page_content = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/section/div'))).text

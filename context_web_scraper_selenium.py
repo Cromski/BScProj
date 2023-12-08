@@ -25,7 +25,7 @@ def reorder_scraping_result(text):
     return temp
 
 def get_twitter_trends():
-    url = 'https://www.twitter.com/i/trends'
+    url = 'https://twitter.com/i/flow/login'
     # options = webdriver.FirefoxOptions()
     # options.add_argument('--headless')
     driver = webdriver.Firefox() # options=options
