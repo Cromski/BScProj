@@ -71,4 +71,3 @@ def create_all_boxplots():
         else:
             create_boxplot(attr, data_overview)
 
-create_all_boxplots()
