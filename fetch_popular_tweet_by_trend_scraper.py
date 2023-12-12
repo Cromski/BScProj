@@ -8,7 +8,6 @@ from dotenv import load_dotenv
 import os
 from selenium.webdriver.common.action_chains import ActionChains
 import re
-# import _tkinter
 
 load_dotenv()
 
