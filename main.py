@@ -15,12 +15,7 @@ import json
 behaviors = json.load(open('behaviors.json', 'r'))
 roundnr = 1
 temp = 0.8
-#post to single behavior
-# topic = get_twitter_trends()[0][1] # get the most trending topic
-# tweet = promptChatGPT(0.8, behaviors["Behaviors"][behaviorVal]["act"], behaviors["Behaviors"][behaviorVal]["keywords"], topic)
-# post_msg_to_twitter(behaviors["Behaviors"][behaviorVal]["act"], tweet)
 
-#post to all behaviors each 1.5 hours
 while True:
     print(Fore.MAGENTA + f"########## Round {str(roundnr)} started @ {datetime.now().strftime('%H:%M:%S')} ##########" + Style.RESET_ALL)
 
@@ -45,8 +40,6 @@ while True:
     print(Fore.CYAN + f'\n####---> Topic chosen: {popular_tweet}' + Style.RESET_ALL)
     # post to all behaviors
     for i in range(4):
-        # if i <=2:
-        #     continue
         prompt,tweet = promptChatGPT(temp, behaviors["Behaviors"][i]["act"], behaviors["Behaviors"][i]["keywords"], popular_tweet)
         tweet_id = post_msg_to_twitter(behaviors["Behaviors"][i]["act"], tweet,popular_tweet_src)
         add_tweet_obj(behaviors["Behaviors"][i]["act"], str(tweet_id), prompt, tweet, popular_tweet_src)
