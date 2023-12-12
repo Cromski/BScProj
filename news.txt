@@ -1,2 +1,0 @@
-edge case: when someone starts and ends tweets with dear X, and signed by/best regards X
-    our accounts will sign it with the same name and not own
