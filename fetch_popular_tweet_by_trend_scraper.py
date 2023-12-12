@@ -89,6 +89,3 @@ def get_twitter_trends():
 
     driver.quit()
     return top_tweet_text, tweet_src
-
-# bing,bong = get_twitter_trends()
-# print(f'bing: {bing}\nbong: {bong}')
